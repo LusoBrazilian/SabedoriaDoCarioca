@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Sabedoria do Carioca</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Cinzel', Georgia, serif;
+            background-color: #000;
+            color: white;
+            overflow-x: hidden;
+        }
+
+        /* ===================== */
+        /*   WARNING OVERLAY     */
+        /* ===================== */
+        #warning-overlay {
+            position: fixed;
+            inset: 0;
+            z-index: 9999;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            backdrop-filter: blur(12px) brightness(0.35);
+            -webkit-backdrop-filter: blur(12px) brightness(0.35);
+            background: rgba(0, 0, 0, 0.6);
+            animation: overlayFadeIn 0.6s ease forwards;
+        }
+
+        @keyframes overlayFadeIn {
+            from { opacity: 0; }
+            to   { opacity: 1; }
+        }
+
+        #warning-overlay.fade-out {
+            animation: overlayFadeOut 0.7s ease forwards;
+        }
+
+        @keyframes overlayFadeOut {
+            from { opacity: 1; backdrop-filter: blur(12px) brightness(0.35); }
+            to   { opacity: 0; backdrop-filter: blur(0px) brightness(1); }
+        }
+
+        .warning-box {
+            background: #0d0d0d;
+            border: 1px solid #7b0000;
+            box-shadow:
+                0 0 60px rgba(139, 0, 0, 0.5),
+                inset 0 0 40px rgba(0, 0, 0, 0.8);
+            max-width: 620px;
+            width: 100%;
+            padding: 50px 50px 44px;
+            text-align: center;
+            animation: boxRise 0.7s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+        }
+
+        @keyframes boxRise {
+            from { transform: translateY(30px); opacity: 0; }
+            to   { transform: translateY(0);    opacity: 1; }
+        }
+
+        .warning-header {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+
+        .imp {
+            width: 90px;
+            height: 90px;
+            object-fit: contain;
+            filter: drop-shadow(0 0 12px rgba(179, 0, 0, 0.7));
+        }
+
+        .imp-right {
+            transform: scaleX(-1);
+        }
+
+        .warning-sigil {
+            font-size: 2.8rem;
+            filter: drop-shadow(0 0 10px rgba(179, 0, 0, 0.8));
+        }
+
+        .warning-title {
+            font-family: 'Cinzel', Georgia, serif;
+            font-size: 0.7rem;
+            letter-spacing: 5px;
+            color: #7b0000;
+            text-transform: uppercase;
+            margin-bottom: 16px;
+        }
+
+        .warning-headline {
+            font-family: 'Playfair Display', 'Cinzel', serif;
+            font-size: 1.55rem;
+            font-weight: 600;
+            color: #e8d9c0;
+            line-height: 1.35;
+            margin-bottom: 24px;
+        }
+
+        .warning-divider {
+            width: 80px;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, #7b0000, transparent);
+            margin: 0 auto 28px;
+        }
+
+        .warning-body {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 0.98rem;
+            line-height: 1.85;
+            color: #9a8a76;
+            margin-bottom: 36px;
+            text-align: left;
+        }
+
+        .warning-body strong {
+            color: #c9b08c;
+            font-weight: 600;
+        }
+
+        .warning-note {
+            font-size: 0.82rem;
+            color: #5a4a3a;
+            margin-bottom: 36px;
+            font-style: italic;
+            font-family: 'Playfair Display', Georgia, serif;
+        }
+
+        .warning-btn {
+            display: inline-block;
+            background: transparent;
+            border: 1px solid #7b0000;
+            color: #c9b08c;
+            font-family: 'Cinzel', Georgia, serif;
+            font-size: 0.7rem;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            padding: 16px 30px;
+            cursor: pointer;
+            transition: all 0.35s ease;
+            box-shadow: 0 0 20px rgba(139, 0, 0, 0.2);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .warning-btn::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: rgba(123, 0, 0, 0.15);
+            transform: scaleX(0);
+            transform-origin: left;
+            transition: transform 0.35s ease;
+        }
+
+        .warning-btn:hover {
+            border-color: #b02a2a;
+            color: #e8d9c0;
+            box-shadow: 0 0 30px rgba(176, 42, 42, 0.4);
+        }
+
+        .warning-btn:hover::before {
+            transform: scaleX(1);
+        }
+
+        /* ===================== */
+        /*   HERO / CAPA         */
+        /* ===================== */
+        .hero {
+            min-height: 100vh;
+            background: #000;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+            text-align: center;
+            padding: 30px 40px 40px;
+            position: relative;
+        }
+
+        .hero-nav {
+            width: 100%;
+            display: flex;
+            gap: 50px;
+            justify-content: center;
+            font-size: 0.75rem;
+            letter-spacing: 3px;
+            padding-top: 10px;
+        }
+
+        .hero-nav a {
+            text-decoration: none;
+            color: #999;
+            transition: 0.3s;
+            font-weight: 300;
+        }
+
+        .hero-nav a:hover {
+            color: white;
+        }
+
+        .hero-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            max-width: 900px;
+            padding: 40px 20px;
+        }
+
+        .hero-content h1 {
+            font-size: 4.5rem;
+            color: #b02a2a;
+            margin-bottom: 30px;
+            font-weight: 400;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            line-height: 1.2;
+        }
+
+        .divider-top {
+            width: 600px;
+            max-width: 90%;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, #b02a2a, transparent);
+            margin: 30px auto 40px;
+        }
+
+        .hero-content h2 {
+            font-size: 1.8rem;
+            color: #fff;
+            margin: 0;
+            font-weight: 300;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            text-align: center;
+            width: 100%;
+        }
+
+        .divider-bottom {
+            width: 600px;
+            max-width: 90%;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, #b02a2a, transparent);
+            margin: 40px auto 50px;
+        }
+
+        .hero-image {
+            margin: 30px 0;
+        }
+
+        .hero-image img {
+            max-width: 380px;
+            width: 100%;
+            height: auto;
+            border-radius: 2px;
+            box-shadow: 0 0 80px rgba(176, 42, 42, 0.4);
+            filter: grayscale(20%) contrast(1.1);
+        }
+
+        .hero-tagline {
+            font-size: 1.4rem;
+            color: #ddd;
+            margin-top: 30px;
+            font-weight: 300;
+            letter-spacing: 1px;
+            max-width: 700px;
+            line-height: 1.6;
+        }
+
+        .hero-footer {
+            font-size: 0.75rem;
+            color: #555;
+            letter-spacing: 1px;
+            padding-bottom: 10px;
+        }
+
+        @media (max-width: 768px) {
+            .hero-content h1 { font-size: 2.8rem; }
+            .hero-content h2 { font-size: 1.3rem; }
+            .hero-nav { gap: 25px; font-size: 0.65rem; }
+            .hero-image img { max-width: 280px; }
+            .hero-tagline { font-size: 1.1rem; }
+            .divider-top, .divider-bottom { width: 90%; }
+
+            .warning-box { padding: 36px 28px 32px; }
+            .warning-headline { font-size: 1.25rem; }
+        }
+    </style>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Playfair+Display:wght@400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<!-- ======================== -->
+<!--      WARNING POP-UP      -->
+<!-- ======================== -->
+<div id="warning-overlay">
+    <div class="warning-box">
+
+        <div class="warning-header">
+            <img src="smiling_imp.png" alt="" class="imp imp-left">
+            <div class="warning-sigil">⚠</div>
+            <img src="smiling_imp.png" alt="" class="imp imp-right">
+        </div>
+
+        <p class="warning-title">Aviso ao Leitor</p>
+
+        <h2 class="warning-headline">Este livro é uma obra cômica<br>de caráter interno</h2>
+
+        <div class="warning-divider"></div>
+
+        <p class="warning-body">
+            A <strong>Sabedoria do Carioca</strong> foi escrita como uma <strong>gozação satírica</strong>
+            dentro de um grupo fechado de amigos, no contexto do jogo <em>Hearts of Iron IV</em>.
+            <br><br>
+            A sua filosofia é deliberadamente <strong>egocêntrica e hiperbólica</strong>,
+            e certas passagens podem ser lidas — fora de contexto — como
+            <strong>supremacistas ou discriminatórias</strong>. Esse é o efeito cômico intencional
+            da obra, não um posicionamento real dos seus autores.
+            <br><br>
+            Ao prosseguir, o leitor confirma que compreende a natureza humorística e interna deste material.
+        </p>
+
+        <p class="warning-note">
+            "Fazer o quê? Não tinha equipamento." - Carioca, depois de perder uma partida de hoi4
+        </p>
+
+        <button class="warning-btn" onclick="dismissWarning()">
+            ✠ &nbsp; Não militarei no twitter &nbsp; ✠
+        </button>
+
+    </div>
+</div>
+
+
+<!-- ======================== -->
+<!--         HERO             -->
+<!-- ======================== -->
+<div class="hero">
+
+    <nav class="hero-nav">
+        <a href="sumario.html">SUMÁRIO</a>
+        <a href="introducao.html">INTRODUÇÃO</a>
+    </nav>
+
+    <div class="hero-content">
+        <h1>Domine a Arte<br>do Micro</h1>
+        
+        <div class="divider-top"></div>
+        
+        <h2>E Eleve Sua Genética</h2>
+        
+        <div class="divider-bottom"></div>
+
+        <div class="hero-image">
+            <img src="carioca.jpg" alt="Cover do Livro">
+        </div>
+
+        <p class="hero-tagline">
+            Domine o micro.<br>
+            Se torne um melhor jogador.
+        </p>
+    </div>
+
+    <div class="hero-footer">
+        © 2026 — Carioca / Projeto de Last Stand
+    </div>
+
+</div>
+
+
+<script>
+    function dismissWarning() {
+        const overlay = document.getElementById('warning-overlay');
+        overlay.classList.add('fade-out');
+        overlay.addEventListener('animationend', () => {
+            overlay.style.display = 'none';
+        }, { once: true });
+    }
+</script>
+
+</body>
+</html>
