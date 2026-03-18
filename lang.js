@@ -393,8 +393,6 @@
         <p>Nam in HOI4, sicut in bello, non vincit qui unitatem "pulchriorem" habet. Vincit qui plus carros pugnantes, plus stock sustentans et plus impactum realem in mappa habet.</p>`,
     },
 
-  };
-
     capitulo17: {
       h1: 'Caput XVII — De Toxicitate',
       bookText: `
@@ -1090,6 +1088,49 @@
         <p>Ludum in mappa vincere non sufficit. In micro etiam vincendum est. Semper.</p>`,
     },
 
+
+    introducao: {
+      h1: 'INTRODUCTIO — PRINCIPIUM SAPIENTIAE CARIOCAE',
+      bookText: `
+        <p class="capitular">In principio non erat meta, nec micro, nec logica belli. Erant solum elites hoi4, lobbiae cum dollynhis et minores auxiliatores qui multum loquebantur sine umquam vincendo.</p>
+        <p>Et tunc surrexit Carioca — non ut qui iucunditatem quaerit, sed ut qui ordinem chao imponit. Non venit dulciter docere, nec fracasatos phrasibus pulchris hortari. Venit crudam realitatem ludi exponere.</p>
+        <p>Bellum errorem non ignoscit. Micro ego non respicit. Build mala ante 1939 damnatio est.</p>
+        <p>Sapientia Cariocae ex observatione, praxi et strage strategica nascitur. Quodque encirclement lectio est. Quodque wipe sermo est. Quodque rabies in chatto confirmatio est veritatem dolere.</p>
+        <p>Hic liber non est ad debiles consolandos. Non est pro eis qui aequilibrium culpant. Non est pro eis qui de meta sine historia loquuntur.</p>
+        <p>Est pro eis qui accipiunt talentum existere, geneticam momenti esse, et non omnes ad micro dominandum natos esse.</p>
+        <blockquote>"Ego genetice superior sum in micro."</blockquote>
+        <p class="center-text">Hic tres veritates immutabiles revelantur:</p>
+        <ul class="center-list">
+          <li>Aliqui nati sunt ad premendum sub pressione.</li>
+          <li>Alii nati sunt ad errandum sub stress.</li>
+          <li>Loqui sine victoria haeresis strategica est.</li>
+        </ul>
+        <p class="center-text" style="margin-top: 28px;">Per hos pergamenos lector videbit:</p>
+        <ul class="center-list">
+          <li>Separationem inter micro lusores et spectatores propriae cladis.</li>
+          <li>Damnationem theoreticorum sine historia.</li>
+          <li>Fatum eorum genetice ad bad micro destinatorum.</li>
+          <li>Gloriam eorum qui mappam dominantur.</li>
+        </ul>
+        <p>Sed nemo hunc librum solatio quaerens ingrediatur.</p>
+        <p>Nam sicut ipse Carioca declaravit, sine pietate et sine metaphora:</p>
+        <blockquote>"GDU pro depressivis mors est."</blockquote>
+        <p>Non quia ludus destruit — sed quia exponit eum qui numquam paratus fuit competere.</p>
+        <p>Hic ego cadit. Illusio moritur. Et solum manet qui vincere discit.</p>
+        <p>Debilis hunc librum nunc claudat. Fortis progrediatur.</p>
+        <p>Sapientia Cariocae non omnes in bonos lusores transformat. Solum revelat quis semper fuerit.</p>`,
+    },
+
+    sumario: {
+      h1: 'Index Capitulorum',
+    },
+
+    index: {
+      h1: null,
+    },
+
+  }; /* end TRANSLATIONS */
+
   /* ── Detect page ── */
   function getPageKey() {
     const p     = location.pathname.toLowerCase();
@@ -1111,7 +1152,7 @@
     if (!originsSaved) return;
     const h1 = document.querySelector('h1');
     if (h1 && savedOriginals.h1 !== undefined) h1.innerHTML = savedOriginals.h1;
-    const bt = document.querySelector('.book-text');
+    const bt = document.querySelector('.book-text') || document.querySelector('.medieval');
     if (bt && savedOriginals.bookText !== undefined) bt.innerHTML = savedOriginals.bookText;
   }
 
@@ -1122,7 +1163,7 @@
     saveOriginals();
     const h1 = document.querySelector('h1');
     if (h1 && t.h1) h1.innerHTML = t.h1;
-    const bt = document.querySelector('.book-text');
+    const bt = document.querySelector('.book-text') || document.querySelector('.medieval');
     if (bt && t.bookText) bt.innerHTML = t.bookText;
   }
 
