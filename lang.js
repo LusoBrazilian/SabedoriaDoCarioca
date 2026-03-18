@@ -1123,10 +1123,57 @@
 
     sumario: {
       h1: 'Index Capitulorum',
+      summaryLinks: {
+        'capitulo1':  'Caput I — De Bello, de Fastu et de Micro',
+        'capitulo2':  'Caput II — De Fato Genetico Micro',
+        'capitulo3':  'Caput III — De Iis Qui Loquuntur Sine Scientia',
+        'capitulo4':  'Caput IV — De Logica et Efficacia',
+        'capitulo5':  'Caput V — De Merito Proprio',
+        'capitulo6':  'Caput VI — De Iudicio et Efficacia',
+        'capitulo7':  'Caput VII — Cur Perdidimus?',
+        'capitulo8':  'Caput VIII — De Conspiratoribus Contra Ludum',
+        'capitulo9':  'Caput IX — De Iis Qui Lobbium Detinent',
+        'capitulo10': 'Caput X — De Superbia',
+        'capitulo11': 'Caput XI — De Dollynhis in Maioribus',
+        'capitulo12': 'Caput XII — De Iis Qui Novas Formas in Build Inveniunt',
+        'capitulo13': 'Caput XIII — De Iis Qui In Telephono Ludunt',
+        'capitulo14': 'Caput XIV — De Aequilibrio',
+        'capitulo15': 'Caput XV — De Inaequilibrio',
+        'capitulo16': 'Caput XVI — De Mechanizatis',
+        'capitulo17': 'Caput XVII — De Toxicitate',
+        'capitulo18': 'Caput XVIII — De "Elite HOI4"',
+        'capitulo19': 'Caput XIX — De Tabula',
+        'capitulo20': 'Caput XX — De Emojis Ingentibus',
+        'capitulo21': 'Caput XXI — De Corruptione in Administratione',
+        'capitulo22': 'Caput XXII — De Iis Qui Erronee Ironizant',
+        'capitulo23': 'Caput XXIII — De Iis Qui Carros Pretiosos Fabricant',
+        'capitulo24': 'Caput XXIV — De Iis Qui Carros Miseros Fabricant',
+        'capitulo25': 'Caput XXV — De Iis Qui Autonomiam Augent',
+        'capitulo26': 'Caput XXVI — De Pertinacibus Superior Firepower',
+        'capitulo27': 'Caput XXVII — De Iis Qui Acies Inf Only Aedificant',
+        'capitulo28': 'Caput XXVIII — De CAS',
+        'capitulo29': 'Caput XXIX — De Paracadistarum Usu',
+        'capitulo30': 'Caput XXX — De Iis Qui Africam Non Transgrediuntur',
+        'capitulo32': 'Caput XXXII — Qui Romaniam Invadunt',
+        'capitulo33': 'Caput XXXIII — De Iis Qui Ludum Detinent',
+        'capitulo34': 'Caput XXXIV — De Iis Qui Albert Speer et Total War Dant',
+        'capitulo35': 'Caput XXXV — Hostes Vocis',
+        'capitulo36': 'Caput XXXVI — Sabotores Proprii Agminis',
+        'capitulo37': 'Caput XXXVII — De Iis Qui Ludum Victum Amittunt',
+      },
     },
 
     index: {
-      h1: null,
+      warningTitle:    'Monitio Lectori',
+      warningHeadline: 'Hic liber opus comicum est<br>naturae internae',
+      warningBody:     `Sapientia <strong>Cariocae</strong> scripta est ut <strong>iocus satiricus</strong> intra coetum clausum amicorum, in contextu ludi <em>Hearts of Iron IV</em>.<br><br>Philosophia eius deliberate <strong>egocentrica et hyperbolica</strong> est, et quaedam loca legi possunt — extra contextum — tamquam <strong>suprematica vel discriminatoria</strong>. Hic est effectus comicus intentionalis operis, non positio realis auctorum eius.<br><br>Pergendo, lector confirmat se naturam humoristicam et internam huius materiae intelligere.`,
+      warningNote:     '"Quid facere? Apparatus non erat." — Carioca, post partitam hoi4 amissam',
+      warningBtn:      '✠ &nbsp; In twitter non militabo &nbsp; ✠',
+      heroH1:          'Ars Micro<br>Dominanda Est',
+      heroH2:          'Et Genetica Tua Elevanda',
+      heroTagline:     'Micro domina.<br>Lusor melior fias.',
+      navSumario:      'INDEX',
+      navIntroductio:  'INTRODUCTIO',
     },
 
   }; /* end TRANSLATIONS */
@@ -1143,8 +1190,24 @@
     if (originsSaved) return;
     const h1 = document.querySelector('h1');
     if (h1) savedOriginals.h1 = h1.innerHTML;
-    const bt = document.querySelector('.book-text');
+    const bt = document.querySelector('.book-text') || document.querySelector('.medieval');
     if (bt) savedOriginals.bookText = bt.innerHTML;
+    // sumario: save link texts
+    document.querySelectorAll('.summary a').forEach(a => {
+      const key = (a.getAttribute('href') || '').replace(/.*\/(capitulo\d+)\.html/, '$1');
+      if (key) savedOriginals['link_' + key] = a.textContent;
+    });
+    // index: save warning + hero fields
+    const wt = document.querySelector('.warning-title');        if (wt) savedOriginals.warningTitle    = wt.innerHTML;
+    const wh = document.querySelector('.warning-headline');     if (wh) savedOriginals.warningHeadline = wh.innerHTML;
+    const wb = document.querySelector('.warning-body');         if (wb) savedOriginals.warningBody     = wb.innerHTML;
+    const wn = document.querySelector('.warning-note');         if (wn) savedOriginals.warningNote     = wn.innerHTML;
+    const wbtn = document.querySelector('.warning-btn');        if (wbtn) savedOriginals.warningBtn    = wbtn.innerHTML;
+    const hh1 = document.querySelector('.hero-content h1');     if (hh1) savedOriginals.heroH1         = hh1.innerHTML;
+    const hh2 = document.querySelector('.hero-content h2');     if (hh2) savedOriginals.heroH2         = hh2.innerHTML;
+    const ht  = document.querySelector('.hero-tagline');        if (ht)  savedOriginals.heroTagline    = ht.innerHTML;
+    const ns  = document.querySelector('a[href="sumario.html"]');   if (ns)  savedOriginals.navSumario    = ns.textContent;
+    const ni  = document.querySelector('a[href="introducao.html"]');if (ni)  savedOriginals.navIntroductio= ni.textContent;
     originsSaved = true;
   }
 
@@ -1154,6 +1217,22 @@
     if (h1 && savedOriginals.h1 !== undefined) h1.innerHTML = savedOriginals.h1;
     const bt = document.querySelector('.book-text') || document.querySelector('.medieval');
     if (bt && savedOriginals.bookText !== undefined) bt.innerHTML = savedOriginals.bookText;
+    // sumario links
+    document.querySelectorAll('.summary a').forEach(a => {
+      const key = (a.getAttribute('href') || '').replace(/.*\/(capitulo\d+)\.html/, '$1');
+      if (key && savedOriginals['link_' + key] !== undefined) a.textContent = savedOriginals['link_' + key];
+    });
+    // index fields
+    const wt   = document.querySelector('.warning-title');        if (wt   && savedOriginals.warningTitle    !== undefined) wt.innerHTML   = savedOriginals.warningTitle;
+    const wh   = document.querySelector('.warning-headline');     if (wh   && savedOriginals.warningHeadline !== undefined) wh.innerHTML   = savedOriginals.warningHeadline;
+    const wb   = document.querySelector('.warning-body');         if (wb   && savedOriginals.warningBody     !== undefined) wb.innerHTML   = savedOriginals.warningBody;
+    const wn   = document.querySelector('.warning-note');         if (wn   && savedOriginals.warningNote     !== undefined) wn.innerHTML   = savedOriginals.warningNote;
+    const wbtn = document.querySelector('.warning-btn');          if (wbtn && savedOriginals.warningBtn      !== undefined) wbtn.innerHTML = savedOriginals.warningBtn;
+    const hh1  = document.querySelector('.hero-content h1');      if (hh1  && savedOriginals.heroH1          !== undefined) hh1.innerHTML  = savedOriginals.heroH1;
+    const hh2  = document.querySelector('.hero-content h2');      if (hh2  && savedOriginals.heroH2          !== undefined) hh2.innerHTML  = savedOriginals.heroH2;
+    const ht   = document.querySelector('.hero-tagline');         if (ht   && savedOriginals.heroTagline     !== undefined) ht.innerHTML   = savedOriginals.heroTagline;
+    const ns   = document.querySelector('a[href="sumario.html"]');    if (ns   && savedOriginals.navSumario    !== undefined) ns.textContent = savedOriginals.navSumario;
+    const ni   = document.querySelector('a[href="introducao.html"]'); if (ni   && savedOriginals.navIntroductio!== undefined) ni.textContent = savedOriginals.navIntroductio;
   }
 
   /* ── Apply Latin ── */
@@ -1161,10 +1240,30 @@
     const t = TRANSLATIONS[getPageKey()];
     if (!t) return;
     saveOriginals();
+    // h1
     const h1 = document.querySelector('h1');
     if (h1 && t.h1) h1.innerHTML = t.h1;
+    // body text (.book-text or .medieval)
     const bt = document.querySelector('.book-text') || document.querySelector('.medieval');
     if (bt && t.bookText) bt.innerHTML = t.bookText;
+    // sumario: translate chapter links
+    if (t.summaryLinks) {
+      document.querySelectorAll('.summary a').forEach(a => {
+        const key = (a.getAttribute('href') || '').replace(/.*\/(capitulo\d+)\.html/, '$1');
+        if (key && t.summaryLinks[key]) a.textContent = t.summaryLinks[key];
+      });
+    }
+    // index: translate warning overlay + hero
+    if (t.warningTitle)    { const el = document.querySelector('.warning-title');    if (el) el.innerHTML   = t.warningTitle; }
+    if (t.warningHeadline) { const el = document.querySelector('.warning-headline'); if (el) el.innerHTML   = t.warningHeadline; }
+    if (t.warningBody)     { const el = document.querySelector('.warning-body');     if (el) el.innerHTML   = t.warningBody; }
+    if (t.warningNote)     { const el = document.querySelector('.warning-note');     if (el) el.innerHTML   = t.warningNote; }
+    if (t.warningBtn)      { const el = document.querySelector('.warning-btn');      if (el) el.innerHTML   = t.warningBtn; }
+    if (t.heroH1)          { const el = document.querySelector('.hero-content h1');  if (el) el.innerHTML   = t.heroH1; }
+    if (t.heroH2)          { const el = document.querySelector('.hero-content h2');  if (el) el.innerHTML   = t.heroH2; }
+    if (t.heroTagline)     { const el = document.querySelector('.hero-tagline');     if (el) el.innerHTML   = t.heroTagline; }
+    if (t.navSumario)      { const el = document.querySelector('a[href="sumario.html"]');    if (el) el.textContent = t.navSumario; }
+    if (t.navIntroductio)  { const el = document.querySelector('a[href="introducao.html"]'); if (el) el.textContent = t.navIntroductio; }
   }
 
   /* ── CSS ── */
