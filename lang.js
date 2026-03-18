@@ -395,6 +395,701 @@
 
   };
 
+    capitulo17: {
+      h1: 'Caput XVII — De Toxicitate',
+      bookText: `
+        <p>Est virtus quam infirmi damnant, mediocres timent, et incompetentes vitium esse iurant: toxicitas.</p>
+        <p>Pro Carioca, ea non est explosio emotionalis. Est instrumentum.</p>
+        <p>Ferramentum pressionis, destabilizationis, expositionis fragilitatum occultarum.</p>
+        <p>Lusor solidus compositionem tenet. Lusor limitatus collabitur.</p>
+        <p>Quando Carioca ironizat, provocat vel moraliter in chatto opprimit, non est amissio controli — est bellum psychologicum applicatum.</p>
+        <p>Quia HOI4 non solum errorem technicum punit. Punit mentem infirmam.</p>
+        <p>Micro non est solum APM (actiones per minutum). Est resistentia nervosa.</p>
+        <p>Et nervus fragilis cedit antequam linea frangitur.</p>
+        <p>Toxicitas Cariocae functionem revelatricem habet: personas detrahit.</p>
+        <p>Tiltati apparent. Excusatores se denuntiant. Superbi implodunt.</p>
+        <p>Sed est momentum adhuc crudelius, fere liturgicum in sua executione.</p>
+        <p>Quando Carioca vincit. Quando frons collabitur. Quando adversarius iam scit se perdidisse.</p>
+        <p>Et tunc surgit sententia.</p>
+        <p>Brevis. Frigida. Devastans.</p>
+        <p>"Vis ut pausem?"</p>
+        <p>Non est interrogatio. Est humiliatio strategica.</p>
+        <p>Est annuntiatio superioritatis absolutae.</p>
+        <p>Pois naquele instante, Carioca victoriam non disputat — eam tamquam rem tam inevitabilem tractat ut ex pura voluntate interrumpere possit.</p>
+        <p>Nuntius clarus est:</p>
+        <p>"Vinco quia volo. Si pergo, dispares."</p>
+        <p>Nihil magis tiltat quam hoc.</p>
+        <p>Quia clades adhuc excusationes permittit. Sed victoria tamquam misericordia concessa…</p>
+        <p>…ego competitivum destruit.</p>
+        <p>Et est etiam gestus classicus, a dependentibus chronicis timitus:</p>
+        <p>Quando aliquis aliquid fundamentale, obvium rogat, dubium quod numquam existere deberet,</p>
+        <p>Carioca respondet, siccus, inapellabilis:</p>
+        <p>"Inveni."</p>
+        <p>Sine contextu. Sine auxilio. Sine concessionibus.</p>
+        <p>Solum accentus cariocensis gravis, tamquam sententia paedagogica resonans.</p>
+        <p>Si rogare debuit, adhuc scire non meretur.</p>
+        <p>Non est arrogantia gratuita. Est selectio naturalis strategica.</p>
+        <p>Autonomiam cogit. Dependentiam frangit. Limitationes intellectuales exponit.</p>
+        <p>Aliqui evolvunt sub pressione. Alii aeternaliter ducti manent.</p>
+        <p>Toxicitas igitur non est venenum. Est filtrum.</p>
+        <p>Separat eos qui conflictum sustinent ab eis qui solatium exigunt.</p>
+        <p>Quia HOI4, in sua essentia competitiva, sensibilitatem non remunerat —</p>
+        <p>dominium remunat.</p>
+        <p>Et quando dominium totale est, etiam contemptus legitimus fit.</p>
+        <p>Nam toxicitas Cariocae partitas non destruit.</p>
+        <p>Illusiones destruit, egos fragiles et falsas aequivalentias.</p>`,
+    },
+
+    capitulo18: {
+      h1: 'Caput XVIII — De "Elite HOI4"',
+      bookText: `
+        <p>Quamvis nobile sonet titulus, Carioca ab initio clarificat: sic dicta "elite HOI4" raro est elite — est ironia institutionalizata.</p>
+        <p>Pois hoc nomen non natum est ad magnos lusores coronandos, sed ad eos sarcasmo chirurgico notandos quorum mediocritas in folkclorem conversa est.</p>
+        <p>Et inter tales coetus exsurgit communitas nota ut Never Surrender, a margaritis autoproclamatis ut Guardião BR et Tika habitata.</p>
+        <p>Ibi floret phaenomenon curiosum: non solum lusores artis dubiae, sed lusores qui propriam limitationem in identitatem culturalem transtulerunt.</p>
+        <p>In decisionibus delicati sunt, in executione fragiles, ad errorem sensibiles, criticae intolerantes et invariabiliter incapaces ullum argumentum in meta reali sustinendi.</p>
+        <p>Sed verum peccatum non est bad micro.</p>
+        <p>Non est macro fragile. Non est build destructurata.</p>
+        <p>Est aliquid peius.</p>
+        <p>Est deliberata recusatio contra eos qui melius ludunt conflictandi.</p>
+        <p>Quia dum dollynhus communis adhuc patitur, errat et — interdum — discit, "elite" isolationem confortabilem praefert.</p>
+        <p>Fugiunt lobbies difficiles. Partitas competitivas evitant. Bannunt, filtrant, excludunt.</p>
+        <p>Non ad ambitum conservandum — sed ad proprium ego fragile conservandum.</p>
+        <p>Ita bullam hermeticam validationis mutuae creant, ubi nemo propter incompetentiam punitur quia omnes eam communicant.</p>
+        <p>Et in hac officina mediocritatis, skill non evolvitur.</p>
+        <p>Nulla pressio est. Nullum discere est. Nulla realitas est.</p>
+        <p>In tempore stant tamquam divisiones sine doctrina, errores quos quivis lusor minime attentus iam reliquit repetentes.</p>
+        <p>Et Carioca cum lucido contemptu observat:</p>
+        <p>Dum artem ludi bene exsequendi contemplari possent, etiam si numquam eam plene attingant, in servidores disfunctionales refugere malunt, ubi error non corrigitur — sed normalizatur.</p>
+        <p>Ita non solum lusores mali fiunt, sed adversarii propriae evolutionis.</p>
+        <p>Hostes sapientiae. Hostes discendi. Hostes HOI4 in sua forma purissima.</p>
+        <p>Quia ille qui provocationem evitat non suam honorem protegit — solum suam limitationem protegit.</p>
+        <p>Et ita tragoedia consolidatur:</p>
+        <p>Elite sese vocant, sed aeternaliter tamquam spectatores gradus ludi quem numquam ausi sunt confortare vivunt.</p>`,
+    },
+
+    capitulo19: {
+      h1: 'Caput XIX — De Tabula',
+      bookText: `
+        <p>Et Carioca oculos suos vertit ad id quod multi tamquam scripturam sacram tractant:</p>
+        <p>Tabulam.</p>
+        <p>Tabella frigida. Numeri ordinati. Cellulae praetensa obiectivitate impletae.</p>
+        <p>Sed sub analysi Cariocae, non est nisi illusio arithmetica male calibrata.</p>
+        <p>Quia tabella realitatem reflectere deberet. Impactum, consistentiam, executionem, dominium mensurare deberet.</p>
+        <p>Sed in manibus Yat0, refes sophistici facta est — non sensu vulgari, sed graeco purissimo:</p>
+        <p>ars videndi recti dum errans.</p>
+        <p>Yat0 tabulam non per ludi evidentiam adaptat, sed per pressionem vocum, per planctus velatos, per persuasionem insistentem eorum qui meliores videri quam sunt cupiunt.</p>
+        <p>Non frustra Carioca eum bonequinha vocat.</p>
+        <p>Non est voluntas propria. Non est rigor. Non est devotio ad rem.</p>
+        <p>Solum numeri qui argumento clamantissimo cedunt.</p>
+        <p>Et ita aberrationes statisticae nascuntur.</p>
+        <p>Brazilian cum co-op supra Cariocam. 8 contra 6,25.</p>
+        <p>Distortio tam grotesca ut non solum sensum communem, sed ipsam memoriam collectivam lobbiorum provocet.</p>
+        <p>Macro Cariocae ad 5,75 reductum — etiam infra Portuga.</p>
+        <p>Quasi efficacia probata per votationem implicatam perceptionis biasatae minui posset.</p>
+        <p>Sed Carioca protestando non respondet.</p>
+        <p>Historico respondet.</p>
+        <p>Ad partitam accedit. Maiorem assumit.</p>
+        <p>Oeconomiam impeccabilem praestat. Macro solidum. Micro cum praecisione chirurgica executum.</p>
+        <p>Motus principiis <a href="https://pt.wikipedia.org/wiki/Da_Guerra" target="_blank" style="color: #b02a2a;">De Bello</a> dignos.</p>
+        <p>Lectionem strategicam quae improvisationem transcendit. Classem aequilibratam ad invidiam doctrinarum classicarum.</p>
+        <p>Et supra omnia:</p>
+        <p>Praesentiam.</p>
+        <p>Quia est aliquid quod nulla tabella mensurare potest — collapsus psychologicus hostis scientis Cariocam in adverso agmine esse.</p>
+        <p>Moralis frangitur antequam frontline.</p>
+        <p>Et tamen, tabella audet eum in Top 5 ponere.</p>
+        <p>Top 5.</p>
+        <p>Quasi apex cum media rankingi posset.</p>
+        <p>Quasi Lusor iste inter varios alios tantum enumerari posset.</p>
+        <p>Carioca tunc sententiam fert:</p>
+        <p>Cariocam extra Top 1 ponere non est error calculi.</p>
+        <p>Est affronta realitati. Affronta HOI4.</p>
+        <p>Quia Carioca non est unus lusorum.</p>
+        <p>Ille est variabilis dominans partitae.</p>
+        <p>Differentia inter ludum aequum et collapsem inevitabilem. Inter victoriam strategicam et disastrum annuntiatum.</p>
+        <p>Et nulla tabella, quamvis bene formata sit,</p>
+        <p>auctoritatem habet rescribendi id quod campus belli iam decrevit.</p>`,
+    },
+
+    capitulo20: {
+      h1: 'Caput XX — De Emojis Ingentibus',
+      bookText: `
+        <p>Et multi rogant, confusi, fere perturbati:</p>
+        <p>Cur Carioca non solum verba scribit, quando potest in chattum <img src="../smiling_imp.png" alt="smiling imp roxo" style="width:48px; vertical-align:middle;"> iaculari, telam tamquam oppugnatio fulminis dominans?</p>
+        <p>Infirmi exaggerationem vocant. Mediocres infantilitatem vocant. Dollynhi "cringe" vocant.</p>
+        <p>Sed Carioca linguam strategicam avancatam vocat.</p>
+        <p>Pois ubi lusor communis digitat, Carioca impactat.</p>
+        <p>Emoji ingens non est ornamentum — est praesentia psychologica materializata.</p>
+        <p>Ignorari impossibile est. Ratiocinia interrumpit, discursus frangit, attentionem invadit.</p>
+        <p>Sicut push bene temporatus, spatium non rogat — capit.</p>
+        <p>Dum alii reactiones timidas, icunculas parvas in volutione chatti perditas mittunt,</p>
+        <p>Carioca sticker monstruosum effundit quod super colloquium tamquam superioritas aeria incontestabilis pendet.</p>
+        <p>Non est communicatio. Est impositio.</p>
+        <p>Quodque <img src="../smiling_imp.png" alt="smiling imp roxo" style="width:48px; vertical-align:middle;"> amplificatum nuntium silens portat:</p>
+        <p>"Comfortabilis sum." "Fruor." "Vinco."</p>
+        <p>Quia nihil magis adversarium destabilizat quam videre aliquem lobbium obruentem dum cum visivo ludibrio in magna scala reagit.</p>
+        <p>Emoji ingens id implet quod longa verba non possunt:</p>
+        <p>Humiliat sine disputatione. Provocat sine explicatione. Destabilizat sine labore.</p>
+        <p>Est micro psychologicum.</p>
+        <p>Et est etiam factor aesthetico-hierarchicus.</p>
+        <p>Lusores communes emoji parvis utuntur. Lusores insecuri attentionem evitant.</p>
+        <p>Sed Carioca amplificat.</p>
+        <p>Expandit. Exaggerat. Spatium digitale occupat sicut territorium in mappa occupat.</p>
+        <p>Quia etiam in chatto Carioca mediocritem "magnitudinis standard" recusat.</p>
+        <p>Si reagendum est, ita reagatur ut ignorari impossibile sit.</p>
+        <p>Si ridendum est, risus scalem habeat.</p>
+        <p>Si derridendum est, derisio latitudinem combat width emotionalis habeat.</p>
+        <p>Et ita sticker in subscriptionem fit.</p>
+        <p>Marca registrata. Extensio aurae.</p>
+        <p><img src="../smiling_imp.png" alt="smiling imp roxo" style="width:48px; vertical-align:middle;"> non est solum emoji — est imago visualis status mentalis Cariocae:</p>
+        <p>Confidens. Incuriosus. Periculose comfortabilis dum chaos insidet.</p>
+        <p>Et qui magnitudine irritantur, re vera non stickero irritantur.</p>
+        <p>Irritantur eo quod symbolizat:</p>
+        <p>Aliquem tam securum sui dominii ut etiam reactionem trivialissimam in spectaculum psychologicum transformare possit.</p>
+        <p>Quia in universo Cariocae,</p>
+        <p>etiam emoji veritatem fundamentalem reflectere debet:</p>
+        <p>Parvum esse numquam optio fuit.</p>`,
+    },
+
+    capitulo21: {
+      h1: 'Caput XXI — De Corruptione in Administratione',
+      bookText: `
+        <p>Et Carioca vocem erexit contra malum quod non in campo belli nascitur, sed ante primum tick ludi: corruptio in administratione.</p>
+        <p>Quia est aliquid nocivius quam dollynhus in maiore, destructivius quam build heretica, irritantius quam lobbium detentum — est aequilibrium proprio commodo manipulatum.</p>
+        <p>Quando ii qui ludum administrant non solum in mappa, sed etiam in rotis invisibilibus lobbii ludere incipiunt, partita bellum esse desinit et theatrum vanitatum fit.</p>
+        <p>Carioca phaenomenon cum lucido contemptu observat:</p>
+        <p>Yat0 et Derp, auctoritate informali investiti, ab organizatoribus ad systematicos beneficiarios transierunt.</p>
+        <p>Aequilibria manu invisibili formata. Distributiones biasatae. Adiustamenta "technica" quae curiose semper eos favent.</p>
+        <p>Et tamquam coronatio huius distortionis:</p>
+        <p>Notae inflatae. Ranking indulgentes. Top 1 et Top 2 tamquam throni autoattributi occupati.</p>
+        <p>Non propter consistentiam historicam. Non propter dominium probatum. Sed propter contrôle narrativum.</p>
+        <p>Quia quando aestimator se ipsum iudicat, tabella mensurare desinit — legitimare incipit.</p>
+        <p>Hoc organizationem vocant. Criterium vocant. Consensum vocant.</p>
+        <p>Carioca nomine recto vocat: auto-beneficium sub specie impartialitatis.</p>
+        <p>Et est etiam peccatum subtilius:</p>
+        <p>Praetensio monopolizandi sapientiam HOI4.</p>
+        <p>Quasi auctoritas administrativa auctoritatem strategicam generaret. Quasi lobbium gerere micro produceret. Quasi tabellam edere macro crearet.</p>
+        <p>Sed Carioca veritatem incommodam recordat:</p>
+        <p>Sapientia non declaratur. Sapientia demonstratur.</p>
+        <p>Non ex munere nascitur. Ex executione nascitur.</p>
+        <p>Dum aliqui se in summum per editionem et influentiam ponunt, Carioca per unicum criterium quod fraudem non admittit exsurgit: performanciam in ludo reali.</p>
+        <p>Quia nulla manipulatio picks, nulla inflatio notae, nulla architectura ranking test brutale partitae competitivae superat.</p>
+        <p>In mappa, sophisma non est.</p>
+        <p>Tank male microgeritus moritur. Oeconomia male structurata collabitur. Strategia fragilis implodit.</p>
+        <p>Et ibi, ubi numeri in consequentias fiunt, vera hierarchia se revelat.</p>
+        <p>Carioca tunc sententiam fert:</p>
+        <p>Administrare non est dominare. Aequilibrare non est intelligere. Auto-rankingare non est probare.</p>
+        <p>Quia coram Arte Belli in sua forma purissima practica, ii qui per structuram se coronant minores manent quam ille qui per realitatem se imponit.</p>
+        <p>Et ita monitio Cariocae registratur:</p>
+        <p>Quando administratio propter ego corrumpitur, ludus non solum aequilibrium amittit — legitimitate amittit.</p>
+        <p>Quia HOI4 builds malas, dollynhos, lobbies chaoticos superare potest — sed vix superat quando arbitri in causam propriam ludere incipiunt.</p>`,
+    },
+
+    capitulo22: {
+      h1: 'Caput XXII — De Iis Qui Erronee Ironizant',
+      bookText: `
+        <p>Et Carioca docuit de arte rara, a mediocribus male intellecta et in manibus malis letaliter periculosa: Ironia.</p>
+        <p>Quia ironizare non est solum deridere. Non est sarcasmus vilis. Non est iocus in ventum chatti iactus.</p>
+        <p>Vera ironia — illa digna doctrinis Socratis — est instrumentum superioritatis intellectualis. Est lamina tenuis, non malleus.</p>
+        <p>Timing, praecisionem et conscientiam absolutam propriae positionis exigit. Qui ironizat sine dominio situationis humorem non producit — verecundiam producit.</p>
+        <p>Quia ironia male exsequuta effectum inversum habet: pro elevando, exponit. Pro intimidando, debilitat. Pro laedendo alterum, se laedit.</p>
+        <p>Carioca hanc legem invisibilem intelligit: Solum potest ironizare qui contextum iam vicit.</p>
+        <p>Ironia est privilegium securi, non refugium insecuri.</p>
+        <p>Quando Carioca ironizat, substantia adest. Historia adest. Auctoritas implicita adest.</p>
+        <p>Chattus sentit. Lobbium intelligit. Scopus se contrahit.</p>
+        <p>Sed quando lusor sine tali statura eum imitari tentat, eventus disastrosus est.</p>
+        <p>Et hic Carioca exemplum classicum indicat: Yat0.</p>
+        <p>Qui, temptans personam ironiae induere, solum fragilitatem post posam revelavit.</p>
+        <p>Quia ironia eius dominium non portabat — laborem portabat. Non cum naturalitate emergébat — coactam sonabat. Non secabat — lapsabat.</p>
+        <p>Et nihil devastantius est pro aura lusoris quam ironia quae in suo ipso nasci fallit.</p>
+        <p>Quia error mechanicus corrigi potest. Build mala adaptari potest.</p>
+        <p>Sed ironia malsucessa cicatricem socialem relinquit. Deiicit. Reducit. Insecuritatem denuntiat. Lobbium non parcit.</p>
+        <p>Quia omnes agnoscunt, etiam in silentio: Ille qui spirituosus videri conatur sine praesentia solum suam irrelevantiam annuntiat.</p>
+        <p>Et ita paradoxon crudele impletur: Ironizare male lusorem non facit iocundum — facit eum semantice dollynhum.</p>
+        <p>Quia ironia est amplificator hierarchiae. In manibus Cariocae, in spectaculum intelligentiae et contemptu eleganti fit. In manibus malis, in strepitum incommodum transformatur.</p>
+        <p>Carioca tunc sententiam fert: Nem toda língua nasceu para a ironia. Non omnis lingua ad ironiam nata est. Non omne ego pondus derisus sustinet.</p>
+        <p>Quia ironia non est aliquid quod temptatur. Est aliquid quod sustinetur.</p>`,
+    },
+
+    capitulo23: {
+      h1: 'Caput XXIII — De Iis Qui Carros Pretiosos Fabricant',
+      bookText: `
+        <p>Et Carioca de errore locutus est qui in fabricis mundi tamquam liturgia ignorantiae repetitur: carrus pretiosus.</p>
+        <p>Quia multi, designer aperientes, enthusiasmo infantili capiuntur. Vident modulos splendentes, turres avancatas, emendationes seductivas — et credunt quemque numerum maiorem sapientiam strategicam repraesentare.</p>
+        <p>Et ita nascitur creatura dilecta dollynhi: carrus obsceni pretii.</p>
+        <p>Inter tales heresias una praecipue eminet — infamis Turret III.</p>
+        <p>Quia pauci moduli tantam confusionem inter vires reales et vanitatem statisticam symbolizant.</p>
+        <p>Dollynhus statistica spectat et dicit: "Plus breakthrough melius est."</p>
+        <p>Carioca eandem statisticam spectat et rogat: "Breakthrough contra quem?"</p>
+        <p>Quia est veritas quae architectis carrorum aureorum latet: Breakthrough ultra necessarium victoriam non producit — dissipationem producit.</p>
+        <p>Si blindatus iam aliquid inter 1000 et 1200 breakthrough attingit, munus suum in campis belli lobbii plene implet.</p>
+        <p>Sed dollynhus ibi non sistit. Modulos accumulat donec 1400… 1600… 1800 attingat. Et celebrat.</p>
+        <p>Interea pretium industriale sicut herba nociva crescit. Quivis carrus pretiosior fit. Quaevis divisio tardius armatur. Quaevis clades in tragoediam logisticam fit.</p>
+        <p>Et ita dollynhus exercitum reliquiarum rararum aedificat: Blindati magnifici… in copia microscopica.</p>
+        <p>Quia in bello reali, mappa non rogat quam pulcher design in laboratorio erat. Solum rogat: quot divisiones ad frontem pervenerunt.</p>
+        <p>Carioca tunc legem a cultoribus Turret III oblitam recordat: Efficacia extravagantiam vincit.</p>
+        <p>Carrus pretio aequilibrato in decenis existere potest. In massa impugnare potest. Clades sine oeconomia paralysi pati potest.</p>
+        <p>Iam carrus pretiosus quamque pugnam in periculum existentiale transformat.</p>
+        <p>Ita Carioca sententiam fert: Vera ingeniositas in design blindatorum non est in cumulando breakthrough ad caelum. Est in intelligendo quando sistendum sit.</p>
+        <p>Quia strategus sapiens non aedificat carrum fortissimum possibilem. Aedificat carrum satis fortem ut in copia satis exsistere possit.</p>
+        <p>Cavete ergo temptationem turrium excessivarum. Quia ille qui carrum pretiosum adorat non arma belli designat. Monumentum propriae incomprehensionis pretii designat.</p>`,
+    },
+
+    capitulo24: {
+      h1: 'Caput XXIV — De Iis Qui Carros Miseros Fabricant',
+      bookText: `
+        <p>Et Carioca etiam de extremo opposito hereseos locutus est: non carrus pretiosus, sed carrus miserabilis.</p>
+        <p>Quia si aliqui per extravagantiam peccant, alii in peccatum etiam tristius cadunt — avaritiam strategicam.</p>
+        <p>Sunt illi qui in designer non tamquam generales, sed tamquam rationales ingrediuntur.</p>
+        <p>Et ita nascitur carrus dollynhi oeconomici: Vilis. Celeriter producibilis. Et omnino incapax pugnas vincendi.</p>
+        <p>Quia hi lusores mendacio confortabili credunt: "Si vilis est, satis est producere plus."</p>
+        <p>Sed oblivisountur aliquid simplex. Producere multum scobis scobem in arma non transformat.</p>
+        <p>Et ita blindati miserabiles surgunt: Carri cum breakthrough anoemico, incapaces offensivae realis sustinendae.</p>
+        <p>Est etiam heresia technica quam Carioca cum recurrenti stupore observat: Dollynhus qui tormentum Tank II in chassis Tank I instalat.</p>
+        <p>Talis praxis ex logica paupere nascitur: puncta industrialia aliqua economizare.</p>
+        <p>Sed quod in pretio economizat, in potentia ignis, penetratione et efficacia structurali amittit.</p>
+        <p>Quia in mod, chassis Tank II non per libidinem existit. Emendationes profundas statisticae portat. Melior basis breakthrough. Melior integratio modulorum. Melior performance generalis.</p>
+        <p>Differentia, pro eis qui systema intelligunt, brutalis est. Sed dollynhus solum numerum pretii videt — et miseriam eligit.</p>
+        <p>Et tunc est etiam peccatum finale: Pars maledicta oeconomiae resourcerum.</p>
+        <p>"Vide", inquiunt, "carrus meus minus consumit." Sic. Minus aciei consumit. Minus wolframii consumit. Et consumit etiam id quod munus eius principale esse deberet: breakthrough.</p>
+        <p>Quia sacrificando capacitatem lineas hostiles frangendi pro aliquot unitatibus resourcerum, dollynhus non economizat. Suam ipsam offensivam sabotat.</p>
+        <p>Et ita ironia crudelis revelatur:</p>
+        <p>Dum adoratores carri pretiosi machinas nimis raras pro campo belli creant, adoratores carri vilis machinas nimis infirmas pro eo vincendo creant.</p>
+        <p>Alii per excessum peccant. Alii per inopiam. Sed ambo in eadem virtute fundamentali strategistae deficiunt: aequilibrio.</p>
+        <p>Ita Carioca sententiam fert: Oeconomia quae capacitatem pugnandi destruit non est efficacia. Est solum mediocritas sub specie prudentiae dissimulata.</p>
+        <p>Et in campo belli, mediocritas non avanctat. Solum plus scobis producit pro hoste transitu.</p>`,
+    },
+
+    capitulo25: {
+      h1: 'Caput XXV — De Iis Qui Autonomiam Augent',
+      bookText: `
+        <p>Inter omnia comportamenta in campis belli servidoris observata, pauca tantam indignationem excitant quantum actus augendi autonomiam dum puppet luditur.</p>
+        <p>Pro aliquibus, mecanica ludi tantum agitur. Pro aliis, parvus actus independentiae symbolicus.</p>
+        <p>Sed pro certis ducibus — praecipue pro Carioca — hoc nihil minus est quam haeresis strategica.</p>
+        <p>In magno tabula belli, puppets munus clarum habent. Non sunt potentia centralis bloci. Non sunt cerebrum aliantiae. Non sunt cor industriale.</p>
+        <p>Sunt, supra omnia, resource. Sive manpower, industria, logistica vel positio strategica, puppet existit ad overlord suum roborandum.</p>
+        <p>Overlord protegit. Puppet contribuit.</p>
+        <p>Quando hoc aequilibrium frangitur, non est solum electio politica — est disastrum militare.</p>
+        <p>In certa partita, Carioca de Regno Unito ludebat, exercitum suum et vires circa imperium meticulose ordinans.</p>
+        <p>Sicut omnis bonus lusor de UK scit, imperium non est solum territorium — est manpower.</p>
+        <p>Et inter omnes dominia imperialia, nullum hac in re pretiosius est quam Raj.</p>
+        <p>Exercitus britannicus igitur manpower indicum late adhibebat ad divisiones suas sustinendas. Strategia perfecte legitima et communis.</p>
+        <p>Donec aliquid inopinatum accidit.</p>
+        <p>Lusor Raj — Pedreiropvp — decisionem cepit. Autonomiam augere statuit.</p>
+        <p>Sed consequentiae venerunt. Et statim venerunt.</p>
+        <p>Quando puppet autonomiam auget, series relationum internarum mutatur.</p>
+        <p>Inter has mutationes est aliquid omnino criticum: fluxus manpower disponibilis pro overlord.</p>
+        <p>Et quando hic fluxus interrumpitur… exercitus sentit.</p>
+        <p>Divisiones quae ante supplementa constans accipiebant simpliciter supplementis carere coeperunt. Milites qui series implere debebant non pervenerunt. Exercitus totus lente degradari coepit.</p>
+        <p>Nulla pugna decisiva fuit. Nullum bombardamentum devastans fuit. Sola mutatio administrativa fuit.</p>
+        <p>Et tamen eventus idem erat ac sabotago militaris.</p>
+        <p>Lusor qui autonomiam auget plerumque impactum strategicum decisionis non plene intelligit. Dependentiam overlord subaestimat. Propriam independentiam detrimento coordinationis bloci praefert.</p>
+        <p>Si est aliquid quod Cariocam profunde irritat, est praecipue hoc genus comportamenti.</p>
+        <p>Non quia autonomia mecanica prohibita sit. Sed quia frequentissime pessimo momento adhibetur.</p>
+        <p>Dum overlord frontes ordinat, instrumenta producit et oppugnationes planificat, puppet experimentum politicum quod omnem structuram militarem destabilizat efficere statuit.</p>
+        <p>Pro Carioca, hoc non est solum error. Est sabotago involuntariae proximum.</p>
+        <p>Ita regula non scripta surgit, inter veteranos servidoris silenter repetita:</p>
+        <p>Si puppet ludis, bis cogita antequam autonomiam augeas.</p>
+        <p>Quia dum pro te parvus passus versus independentiam videtur… pro overlord tuo, collapsem silentum exercitus integri significare potest.</p>`,
+    },
+
+    capitulo26: {
+      h1: 'Caput XXVI — De Pertinacibus Superior Firepower',
+      bookText: `
+        <p>Inter diversos errores strategicos per historiam servidoris commissos, pauci tam persistentes sunt quam comportamentum eorum qui <strong>in absolutamente quavis situatione Superior Firepower adhibere insistunt</strong>.</p>
+        <p>Non refert natio. Non refert munus. Non refert contextus strategicus.</p>
+        <p>Pro hoc genere lusoris, solutio semper eadem videtur esse: <strong>Superior Firepower.</strong></p>
+        <p>Et inter celeberrimos representantes huius scholae invenitur <strong>Largatius</strong>, cum nota turba sua ex servidoribus <em>historical</em> oriunda.</p>
+        <p><strong>Superior Firepower non est doctrina mala.</strong> Immo contrario.</p>
+        <p>In certis situationibus, efficacissima est. Eius bonuses <strong>soft attack, hard attack et buffs pro infanteria et artileria</strong> divisiones in veras machinas damni transformare possunt.</p>
+        <p><strong>Romania</strong>, exempli gratia, ea uti potest sine ullo scandalo strategico.</p>
+        <p>In hoc contextu, <strong>Superior Firepower sensum habet</strong>.</p>
+        <p>Problema incipit quando certi lusores eam tamquam <strong>responsionem universalem ad omnia</strong> tractare incipiunt.</p>
+        <p>Quaeque natio intra ludum quodammodo <strong>ut cum certis generibus doctrinae melius operetur formata est</strong>.</p>
+        <p>Germania caracteres naturales habet qui <strong>Mobile Warfare</strong> favent. Unio Sovietica saepe multum ex <strong>Mass Assault</strong> proficit.</p>
+        <p>Hae synergiae non casu existunt. Oeconomiam nationis, capacitatem industrialem, disponibilitatem manpower et munus strategicum reflectunt.</p>
+        <p>Omnia haec ignorare ad doctrinam eligendam solum quia <strong>"plus attack habet"</strong> error est qui solum ut <strong>pigritia intellectualis strategica</strong> describi potest.</p>
+        <p>Mobile Warfare non solum ad numeros maiores dandos existit. Existit ad <strong>carros lineas frangendos et breccas cum efficacia explorandas</strong>.</p>
+        <p>Hanc logicam pro doctrina ad infanteriam maxime conversa commutare saepe significat <strong>potentiale offensivum integrae nationis omnino destruere</strong>.</p>
+        <p>Si exempla priora iam dubia videntur, est casus qui ad absurdum accedit: <strong>Canada.</strong></p>
+        <p>Intra meta servidoris, Canada munus perspicuum habet: <strong>tanks facere</strong>. Est simpliciter <strong>munus naturale nationis intra agmen alliatum</strong>.</p>
+        <p>Et tamen Largatius unum ex momentis incomprehensibilissimis in servidore visis producere potuit:</p>
+        <p>Canadam accepit. Et <strong>Superior Firepower</strong> elegit. Doctrinam in <strong>infanteriam et artileriam intentam</strong>. Pro natione cuius responsabilitas principalis est <strong>tanks producere et operare</strong>.</p>
+        <p>Hoc momento specifico, multi vetrani <strong>collapsem intellectualem strategicum completum</strong> testati sunt.</p>
+        <p>Curiosissimum est, etiam quando eventa non apparent, hos lusores electiones suas raro reconsiderare.</p>
+        <p>Clades accidunt. Offensivae deficiunt. Carri infra expectata performant. Et tamen conclusio numquam est: "Fortasse doctrina erronea est."</p>
+        <p>Contra. Responsio plerumque est: "Plus attack defuit." Ita cyclus pergit.</p>
+        <p>Pro eis qui artem Micro studunt et praticant, haec mentalitas peculiariter frustrans est.</p>
+        <p>Carri a breakthrough, mobilitate, capacitate explorationis et organizatione adaequata dependent.</p>
+        <p>Quando lusor hanc synergiam deliberate ignorat, ille <strong>potentiale propria unita deliberate limitat</strong>.</p>`,
+    },
+
+    capitulo27: {
+      h1: 'Caput XXVII — De Iis Qui Acies Inf Only Aedificant',
+      bookText: `
+        <p>In <strong>Capite XXVI</strong>, genus quoddam lusoris specificissimum observavimus: ille qui nationes ignorat et doctrinas tamquam superstitionem eligit.</p>
+        <p>Sed est error adhuc profundior. Error qui pro Carioca fere <strong>collapsem completum comprehensionis belli intra ludum</strong> repraesentat.</p>
+        <p>Est phaenomenon notum ut: <strong>builds inf only.</strong></p>
+        <p>Vel, verbis simplicibus: <strong>exercitus integri sine carris.</strong></p>
+        <p>Carioca iam multos exercitus vidit. Aliquos bonos. Aliquos terribiles.</p>
+        <p>Sed est aliquid peculiariter perturbans in exercitu magnae potentiae aperto… et in eo <strong>nullum carrum relevans in productione</strong> inventum.</p>
+        <p>Divisiones infanteriae. Plus infanteriae. Et adhuc plus infanteriae. Quasi bellum modernum in annum MCMXVI magice transportatum esset.</p>
+        <p>Infanteria, sane, munus suum habet. Lineam tenet. Territorium occupat. Frontes immensos sustinet.</p>
+        <p>Sed quando momentum decisivum belli adest — <strong>lineam hostilem frangere</strong> — est instrumentum quod semper apparet: <strong>Carri.</strong></p>
+        <p>Sine eis, exercitus pugnare potest. Sed saepe <strong>vincere non potest</strong>.</p>
+        <p>Ratio post build inf only fere semper eadem est: Infanteria vilis est. Infanteria minus industria utitur. Ergo, si satis infanteriae aderit… eventualiter hostis frangitur.</p>
+        <p>Et Carioca hanc logicam cum certa curiositate observat. Quia detail valde importante ignorat.</p>
+        <p>Quando duo exercitus gigantes infanteriae collidunt, raro rumptura decisiva accidit. Quod accidit multo praedicabilius est: <strong>Frons congelat.</strong></p>
+        <p>Basta ut una pars paucas divisiones blindatas bene adhibitas habeat ut tota illa murus infanteriae inveniat, sero nimis, quid significet <strong>breakthrough</strong>.</p>
+        <p>Infeliciter, pauci lusores hoc phaenomenon tanta consistentia illustrant quam <strong>Largatius</strong>.</p>
+        <p>Largatius <strong>Germaniam</strong> accepit. Nationem cuius ipsa identitas strategica circa <strong>bellum mobile, blitzkrieg et carros</strong> girat.</p>
+        <p>Et tunc venit decisio: <strong>Inf only.</strong> Nullus labor realis in blindatis. Nulla vis rupturae. Solum infanteria.</p>
+        <p>Et quasi hoc non sufficeret, doctrina electa erat: <strong>Superior Firepower.</strong></p>
+        <p>Germania sine carris, cum doctrina in infanteriam intenta. Carioca hoc observavit eodem modo quo medicus aliquem diagnosi obviae insistenter ignorandae observat. Sine stupore. Sed cum certa deceptione.</p>
+        <p>Aliquanto post, Largatius <strong>Unionem Sovieticam</strong> accepit. Doctrina electa fuit <strong>Mass Assault</strong>, quod in theoria aliquam logicam habet. Sed erat detail: <strong>Carri adhuc aberant.</strong></p>
+        <p>Iterum, strategia clara erat: Oceanus infanteriae. Multa organizatio. Multa gens. Sed nullum aes quod pressionem in avancam realem transformare posset.</p>
+        <p>Sed fortasse momentum omnium curiosissimum accidit quando Largatius <strong>Canadam</strong> accepit.</p>
+        <p>Canada <strong>tanks facit</strong>. Haec est eius munus naturale intra structuram aliatam. Sed iterum eadem strategia surrexit: <strong>Inf only.</strong></p>
+        <p>Hoc momento, Carioca solum caput nutavit.</p>
+        <p>In fundo, builds inf only ex confusione valde simplici nascuntur: confusione inter <strong>quantitatem</strong> et <strong>capacitatem</strong>.</p>
+        <p>Sed nulla quantitas infanteriae id quod carri in campum belli afferunt complete substituit: breakthrough, concentrationem impetus, mobilitatem et capacitatem breccas explorandas.</p>
+        <p>Infanteria bellum sustinere potest. Sed saepe carri sunt qui <strong>vincunt</strong>.</p>
+        <p>Et ita, de tempore in tempus, Carioca alium ex his exercitibus invenit. Et eos spectat eodem vultu quo dux equitum exercitum ad proelium euntem spectaret… <strong>sine equis</strong>.</p>
+        <p>Quia pugnare possibile est. Sed vincere… alia historia est.</p>`,
+    },
+
+    capitulo28: {
+      h1: 'Caput XXVIII — De CAS',
+      bookText: `
+        <p>Inter omnia arma moderna in campo belli disponibilia, pauca tantam admirationem — et tantam confusionem — inspirant quantum <strong>CAS</strong>, famosus <em>Close Air Support</em>.</p>
+        <p>Carioca non est hostis CAS. Immo contrario.</p>
+        <p>Scit optime quod, intra mod <strong>GDU</strong>, CAS ignorare est fere suam ipsam sententiam mortis subscribere.</p>
+        <p>Divisiones sub continuo bombardamento instrumenta amittunt. Organizationem amittunt. Pugnas amittunt quae, in terra pura, sustinere potuissent.</p>
+        <p>Verbis simplicibus: <strong>sine CAS, moreris.</strong></p>
+        <p>Sed sicut accidit cum omnibus armis potentibus, linea perspicua est inter <strong>CAS cum intelligentia adhibendum</strong> et <strong>CAS in religionem strategicam transformandum</strong>.</p>
+        <p>Regula extremo simplex intra mod GDU existit. Numerus maximus <strong>CAS qui in pugna in regione aerea participare potest est 400</strong>.</p>
+        <p>Non 600. Non 800. Non 1200. <strong>Quadringenti.</strong></p>
+        <p>Hoc significat quod post hunc numerum, CAS additionales simpliciter <strong>in pugnam terrestrem non ingrediuntur</strong>.</p>
+        <p>Volantes manent. Combustibilem consumunt. Et <strong>ab hoste deiiciuntur</strong>. Sed nihil ad proelium conferunt.</p>
+        <p>Et tamen, de tempore in tempus, aliquis surgit qui hanc realitatem omnino ignorare statuit.</p>
+        <p>Exemplum peculiariter famosum est <strong>Mr. Hammer</strong>, qui curium curiosum habet <strong>multo plus quam 400 CAS in unam regionem</strong> effundendi, quasi numeri infiniti damnationem infinitam automatice crearent.</p>
+        <p>Et Carioca hoc eodem modo videt quo aliquis lusorem scacci tres turres simul movere temptantem observaret. Cum mixtione confusionis… et quodam taedio.</p>
+        <p>Quia eventus semper idem est. <strong>CAS extra moritur.</strong> Sine ullo beneficio additali.</p>
+        <p>Sed est error etiam gravior quam nimium CAS ponere. Est credere quod <strong>CAS omnia solvat</strong>.</p>
+        <p>CAS pugnas vincere iuvat. Sed CAS <strong>carros non substituit</strong>. Breakthrough non creat. Breccas non explorat. Victorias locales in avancas strategicas non transformat.</p>
+        <p>Sine blindatis, CAS saepe pugnam longam… in <strong>pugnam longam cum aeroplanis supra bombardantibus</strong> solum transformat.</p>
+        <p>Sed etiam inter errores CAS involutos, est episodium quod Carioca cum peculiari incredulitate meminit.</p>
+        <p>In certa partita, <strong>Morto de Germania ludebat</strong> durante <strong>Barbarossa</strong>.</p>
+        <p>Initio campaniae, vis aerea germanica difficultates contra fighters hostiles patiebatur.</p>
+        <p>Sed tunc Morto ideam habuit: <strong>Morto plus quam 100 fabricas militares ex productione fighters removit. Et eas fabricas in CAS posuit. Durante ipsa Barbarossa.</strong></p>
+        <p>Ratio fuisse videtur: "Si CAS divisiones destruit… tunc plus CAS problema solvet."</p>
+        <p>Est solum parvum detail quod quivis dux aerius celeriter discit: <strong>CAS superioritate aerea ad bene operandum indiget.</strong></p>
+        <p>Quando caelum rubrum est, CAS enormiter patitur. Participa minus in pugnis. Cum facilitate deiicitur. Et: <strong>CAS in caelo rubro in pulverem fit.</strong></p>
+        <p>Et sicut Carioca iam expectabat: Sine productione sufficiente fighters, Germania contrôlem aeris perdere coepit. Sine contrôle aeris, CAS in numeris absurdis mori coepit.</p>
+        <p>Morto sine fighters mansit. Deinde sine CAS mansit. Et brevi post… <strong>sine ludo mansit.</strong></p>
+        <p>CAS una ex armis maxime momenti mod manet. Eam ignorare error est. Sed eam absolutizare error aeque magnus est.</p>
+        <p>CAS fighters ad caelum protegendum, carros ad lineas frangendas et exercitus terrestres capaes victos explorandos indiget.</p>
+        <p>Sine his, etiam milia aeroplanorum solum modum valde caram belli amittendi fiunt.</p>`,
+    },
+
+    capitulo29: {
+      h1: 'Caput XXIX — De Paracadistarum Usu',
+      bookText: `
+        <p>Inter omnes creaturas quae campos belli huius mod habitant, paucae tam peculiares sunt quam sic dicti <strong>paratroopers</strong>.</p>
+        <p>Observatori incauto, nomen imagines militum e caelo cadentium suggerere potest. Talis imago, quamvis gloriosa, in hoc contextu omnino erronea est.</p>
+        <p>In hoc mod, paratroopers <strong>airdrops non faciunt</strong>. Non e caelo surgunt. Non.</p>
+        <p>Illi <strong>lineam tenent.</strong></p>
+        <p>Et hoc tam efficaciter faciunt ut unam ex metis dominantissimis et irritantissimis in servidore visis creaverint.</p>
+        <p>Secretum paratrooperum in una statistica est: <strong>organizatione</strong>.</p>
+        <p>Dum infanteria communis valores organizationis respectabiles habet, paratroopers valores attingunt quos multi simpliciiter absurdos iudicaret. Non rarum est divisiones <strong>100 organizatione</strong> superantes videre.</p>
+        <p>Et organizatio, sicut omnis generalis expertus scit, vera moneta belli est.</p>
+        <p>Divisio impetum, defensionem et instrumenta sophisticata habere potest — sed sine organizatione celeriter a proelio fugit.</p>
+        <p>Paratroopers exacte oppositum faciunt. Illi <strong>aeternitatem ad frangendum tenent</strong>.</p>
+        <p>Quando pugna in regionibus strategicis deserti incipit, phaenomenon curiosum se manifestat.</p>
+        <p>Carri Axis cum sua massa aerei, breakthrough et soft attack pleni, expectant infanteriam hostilem celeriter opprimi. Sed tunc aliquid mirum accidit.</p>
+        <p>Paratroopers <strong>non moriuntur</strong>. Vel potius, moriuntur… sed non satis celeriter.</p>
+        <p>Propter suum altum nivelum organizationis, <strong>divisio quae modo recessit frequenter ad lineam redit antequam impetus hostilis rumptura finire possit</strong>.</p>
+        <p>Ita cyclus fere infinitus incipit: Paratrooper in pugnam ingreditur. Organizationem lente amittit. Recedit. Organizationem recuperat. Ad pugnam redit. Interea, alius paratrooper locum eius assumit.</p>
+        <p>Eventus est <strong>rotatio constans divisionum</strong>, lineam multo diutius quam normaliter possibile esset vivam mantenens.</p>
+        <p>Carri ad <strong>lineas celeriter frangendas</strong> projecti sunt. Sed quando paratroopers confortant, haec logica fallit.</p>
+        <p>Pugna, quae horas vel dies durare debuit, in aliquid multo longius transformatur. Interdum <strong>hebdomadae continuae proelii</strong>.</p>
+        <p>Quando cum bonis positionibus defensivis combinantur, paratroopers id creant quod multi lusores vocaverunt <strong>lineam aeternam</strong>.</p>
+        <p>Divisiones in proelium et ex proelio constanter ingrediuntur et egrediuntur. Organizatio sicut aestus surgit et cadit. Sed linea <strong>non frangitur</strong>.</p>
+        <p>Multi lusores paratroopers spectant et errorem fatalem committunt: solum impetum vel defensionem eorum analysant.</p>
+        <p>Vera vis eorum est in <strong>tempore quod proelium vivum mantenere possunt</strong>.</p>
+        <p>Dum impugnans lineam celeriter frangere debet, paratroopers exacte contrarium faciunt: <strong>pugnam quam maxime prolongant</strong>.</p>
+        <p>Et in bello prolongato, tempus frequenter defensori favet.</p>
+        <p>Ita unum ex maximis paradoxis huius mod nascitur. Unitas appellata <strong>paratrooper</strong> in unam ex <strong>unitatibus defensivis pertinacissimis ludi</strong> facta est.</p>
+        <p>Illi ibi simpliciter manent. Firmi. Persistentes. Frangere recusantes.</p>
+        <p>Et interdum, in bello, <strong>hoc est omne quod ad totum exercitum sistendum necessarium est</strong>.</p>`,
+    },
+
+    capitulo30: {
+      h1: 'Caput XXX — De Iis Qui Africam Non Transgrediuntur',
+      bookText: `
+        <p>Inter multas maledictiones quae campos belli mod obsidunt, paucae tam persistentes — et tam humiliantes — sunt quantum illa quae lusores Axis ab Africa capienda impedit.</p>
+        <p>Sic, Africam capere. Non agitur de America invadenda, nec Urales transgrediendo. Agitur de campania colonialem in deserto vincere ubi, in theoria, Axis omnes conditiones triumphandi habet.</p>
+        <p>Et tamen, repetitis vicibus, generatione post generationem lusoribus, historia se repetit. Axis… Africam non transgreditur.</p>
+        <p>Haec non est defectus isolatus. Est phaenomenon.</p>
+        <p>Lusores experti, veterani innumerabilium partitarum, iam huius pestis victimae fuerunt. Inter eos inveniuntur: <strong>Yato</strong>, <strong>Brazilian</strong>, <strong>Gamemisto</strong>, <strong>Derp</strong> et <strong>Morto</strong>. Omnes, aliquando, ab eodem inimico invisibili victi sunt: incapacitate collectiva concludendi id quod fere automatica victoria esse deberet.</p>
+        <p>Triumphus Africae Axi <strong>spiritum nationalem essentialem</strong> concedit, cuius bonuses maximi momenti pro reliquo bello sunt. Africam amittere non est solum territorium amittere. Est futurum belli compromittere.</p>
+        <p>Omnia mutaverunt quando lusor nominatus <strong>Badech</strong> strategiam introduxit quae aequilibrium regionis omnino alteraret: famosum <strong>meta paratrooperum britannicorum</strong>.</p>
+        <p>Paratroopers <strong>airdrops non faciunt</strong>. Hic, essentialiter ut <strong>infanteria cum organizatione superiori</strong> operantur.</p>
+        <p>Hae divisiones capacitatem extraordinariam habebant <strong>lineas tenendi</strong>, <strong>proelium rotandi</strong> et <strong>pressionem constantem mantenendi</strong>.</p>
+        <p>Lusores ut <strong>Carioca</strong> et <strong>Gamemisto</strong> celeriter potentiale strategiae perspexerunt et eam systematice explorare coeperunt. Eventus devastans fuit.</p>
+        <p>In multis sessionibus servidoris, eventus cum alarmatia frequentia repetere coepit: Axis lineas aliatas in deserto rumpere non poterat.</p>
+        <p>Si estimatio approximata fieret, in decem partitis fortasse solum <strong>tres victoria Axis</strong> terminarentur.</p>
+        <p>Phaenomenon tam evidens factum est ut mutationes in ipso mod provocaret.</p>
+        <p>Etiam ante rebalancementum, multi lusores perspicere coeperunt problema fortasse non solum in strategia hostili esse. Fortasse erat… in ipso Axe.</p>
+        <p>Incapacitas Africam capiendi aliquid incommodum revelavit: defectum chronicum in tribus rebus fundamentalibus ludi.</p>
+        <p><strong>Micro.</strong> Motus malus copiarum, impetus male coordinati, defectus rotationis efficientis divisionum.</p>
+        <p><strong>Macro.</strong> Distributio inadequata productionis, defectus investitionis correctae.</p>
+        <p><strong>Adaptabilitas.</strong> Fortasse maximum omnium problema. Etiam post diversas partitas exacte eandem metam confrontando, multi lusores eisdem solutionibus quae iam innumeras vices deficerant insistere pergebant.</p>
+        <p>Ad positiones defensivas frangendas — praecipue in terris difficilibus ut Africa — <strong>carri Axis breakthrough multo et soft attack alto indigent</strong>. Sine his, in arcas metalli caras, incapaces ullam brecham aperire, convertuntur.</p>
+        <p>Ita genus quoddam ioci interni in servidore natum est. Legenda. Maledictio.</p>
+        <p>Semper quando nova campania incipit, aliquis inevitabiliter rogat: <em>"Num hac vice Axis Africam transibit?"</em></p>
+        <p>Interdum transit. Sed saepe… non transit.</p>
+        <p>Et ita desertum victimas suas recipere pergit, omnibus persuasis <strong>hanc vicem diversam fore</strong>. Donec, sero nimis, discant Africam non parcere.</p>`,
+    },
+
+    capitulo32: {
+      h1: 'Caput XXXII — Qui Romaniam Invadunt',
+      bookText: `
+        <p>Et Carioca de arte locutus est quam pauci considerare audent: invasionem navalem Romaniae.</p>
+        <p>Quia oculis dollynhi communis, talis idea absurda videtur. "Quomodo per mare invadere id quod in terra pugnatur?" rogant, iam spiritu victi antequam mappam aperuerint.</p>
+        <p>Sed Carioca non solum frontem observat. Negligentiam observat.</p>
+        <p>Quia ubi lusor attentus litus videt, dollynhus solum ornamentum geographicum videt.</p>
+        <p>Et ita prima lex invasionis romanae revelatur: Portus sine guarnisone invitatio est.</p>
+        <p>Dum strategi tabellae divisiones perfectas pro Bessarabia calculant, aliquid multo simplicius oblivisountur: equus sovieticus silenter in litus Maris Nigri descendens.</p>
+        <p>Non vis invasionem potentam facit. Surprisio facit.</p>
+        <p>Quia equus non venit ad pugnas gloriosas vincendas. Venit ad vulnera aperienda.</p>
+        <p>In portus neglectos descendit, urbes litorales capit et tamquam incendium in horreo derelicto avanctat. Non totam nationem capere debet — solum existere debet.</p>
+        <p>Quia instanti quo nuntiatio in angulo telae apparet, dollynhus romanus terrorem logisticum experitur.</p>
+        <p>Fabricae interruptae. Lineae supply minatae. Divisiones a fronte principali aversae. Imperium confusum.</p>
+        <p>Et tunc bellum naturam mutat. Quod ante frons solida erat in theatrum distractionum fit.</p>
+        <p>Romania, quae laborem Axis oleo et industria sustinere debebat, contra phantasmata litoralia pugnare incipit. Bulgaria, complicis suae negligentiae, in idem chaos trahitur.</p>
+        <p>Omne hoc provocatum non per carros graves, sed per paucos equos et ducem qui aliquid simplex intellexit: dollynhus raro id defendit quod impossibile iudicat.</p>
+        <p>Et hic manobrae ingeniositas residet.</p>
+        <p>Non est solum occasio — semper deliciosa — nationem imparatam capitulandi. Est effectus collateralis qui bellum staticum in turbulentiam strategicam transformat.</p>
+        <p>Et ita Carioca veritatem quam multi oblivisountur recordat:</p>
+        <p>Bellum non solum ubi hostis pugnare expectat vincitur.</p>
+        <p>Interdum vincitur ubi recusavit credere aliquem audere apparere.</p>
+        <p>Quia ille qui Romaniam mari invadit non solum territorium quaerit. Quaerit aliquid multo pretiosius:</p>
+        <p>collapsem fiduciae adversariae.</p>
+        <p>Et quando haec fiducia frangitur, nec maximus exercitus errorem fatalem qui eam genuit occultare potest: Portum vacuum ante mare possibilitatum plenum.</p>`,
+    },
+
+    capitulo33: {
+      h1: 'Caput XXXIII — De Iis Qui Ludum Detinent',
+      bookText: `
+        <p>Est genus lusoris quod Carioca peculiariter curiosum iudicat.</p>
+        <p>Non sunt incompetentes. Non sunt novitii. Saepe sunt lusores experti, perfecte capaces identificandi quando bellum iam decisum est.</p>
+        <p>Et tamen… aliquid mirum faciunt. Ludum detinent.</p>
+        <p>Non propter necessitatem strategicam. Non propter incapacitatem militarem.</p>
+        <p>Sed propter rationem quae, pro eis, profunde nobilis videtur: "Ludum magis excitantem reddere."</p>
+        <p>Et semper quando Carioca hanc sententiam audit, iam exacte scit quid secuturum sit.</p>
+        <p>Sunt momenta intra partitam in quibus eventus belli iam evidens est. Frons fregit. Hostis carros suos amisit. Oeconomia collabitur. Caelum amissum est.</p>
+        <p>Hoc puncto, bellum non iam deciditur. Iam decisum est.</p>
+        <p>Quod restat solum est processus inevitabilis opus perficiendi. Avancandi. Circumdandi. Concludendi.</p>
+        <p>Sed certi lusores credunt bellum decisum prolongandum esse ut magis excitans fiat.</p>
+        <p>Offensivas decelerant. Avancas sistunt. Obsidiones retinent. Tempus hosti dant ad aliquid reorganizandum quod iam omnino destructum erat.</p>
+        <p>Et Carioca hoc comportamentum cum quaestione valde simplici observat: excitans pro quibus?</p>
+        <p>Quia partita multiplayer non est historia ab uno duce scripta. Decem homines involuit. Homines tempore limitato. Homines qui horas diei sui ad ludum reservaverunt.</p>
+        <p>Quando aliquis ludum iam victum detinere statuit, non solum bellum fictum prolongat. Tempus omnium prolongat.</p>
+        <p>Et pro Carioca, hoc non est drama. Solum dissipatio temporis est.</p>
+        <p>Inter lusores qui interdum in hoc comportamentum cadunt, nomen quoddam cum certa frequentia apparet: Yato. Praecipue quando de Unione Sovietica ludit.</p>
+        <p>Germania clarissime imbecilla est. Sine carris relevantibus. Sine vi aerea sufficiente. Germania cathedratica.</p>
+        <p>Hoc puncto, Unio Sovietica omnia instrumenta ad simpliciter avancandos et bellum finiendum habet.</p>
+        <p>Sed tunc decisio surgit. Paululum detinere. Ludum "respirare" sinere. Plus tensionis creare.</p>
+        <p>Et Carioca hoc vultu extremo simplici observat.</p>
+        <p>Bellum intra ludum iam satis drama naturaliter habet. Obsidiones inopinae. Frontes quae franguntur. Plana quae deficiunt. Victoriae improbabiles. Omne hoc naturaliter accidit. Non est necesse excitationem artificialiter fabricare.</p>
+        <p>Quando una pars manifeste vicit, actio recta non est bellum in scenam theatri transformare. Actio recta est eam finire. Celeriter. Munde. Et ad sequentem ludum procedere.</p>
+        <p>Et quando aliquis ludum detinere statuit solum ad artificialem excitationem prolongandam, Carioca in eo non magnam strategiam videt.</p>
+        <p>Videt aliquid multo simplicius.</p>
+        <p>Ducem qui oblitus est obiectivum belli non esse eam dramaticam reddere. Obiectivum est eam vincere.</p>
+        <p>Et quando victoria iam garantita est… Quod restat facere est solum arcam claudere.</p>`,
+    },
+
+    capitulo34: {
+      h1: 'Caput XXXIV — De Iis Qui Albert Speer et Total War Dant',
+      bookText: `
+        <p>In capite priori, phaenomenon curiosum observavimus: lusores qui, percipientes bellum iam decisum esse, victoriam decelerare eligunt ut ludum suposito excitantiorem reddant.</p>
+        <p>Iam idea mira erat. Sed aliqui lusores hoc comportamentum ad gradum adhuc absurdiorem perducere potuerunt.</p>
+        <p>Quia micro sistere adhuc relative passivum est. Nunc aliquid multo peius imaginare. Imaginare hostem directe iuvare.</p>
+        <p>In certis circulis servidoris, idea surrexit quam Carioca initio iocum esse credidit.</p>
+        <p>Logica simplex erat. Si Germania nimis celeriter perdebat… fortasse bona idea erat Germaniae bonuses dare.</p>
+        <p>Non territorium capiendo. Non pugnas amittendo. Sed deliberate eventus et decisiones activando quae hostem roborant.</p>
+        <p>Et ita una ex strategiis curiosissimis in servidore visis nata est: invasio equi Berolinum.</p>
+        <p>Planum hoc modo operatur. Lusor alliatus unam divisionem — plerumque equitatum — accipit et parvam invasionem in territorio germanico efficit.</p>
+        <p>Obiectivum non est nationem capere. Obiectivum est simpliciter certas conditiones internas Germaniae activare quae lusori germanico decisiones ut Albert Speer et Total War accedere permittunt.</p>
+        <p>Decisiones quae bonuses industriales extremo fortes concedunt: +30% efficiency cap, incrementum industriale, emendationes significativas in productione belli.</p>
+        <p>Bonuses gigantescos. Bonuses qui manifeste pro situationibus desperatis Germaniae cogitati erant. Et nunc ab ipso hoste activabantur.</p>
+        <p>Et sicut accidit cum multis ideis peculiaribus intra servidorem, est nomen quod frequenter cum eis associatur: Yato.</p>
+        <p>Et ita, in partita specifica, theoria in praxim posita est.</p>
+        <p>Germania — a Morto controlata — iam in situatione extremo infirma erat. Germania cathedratica. Hostis qui probabiliter celeriter concludendus fuisset.</p>
+        <p>Sed tunc venit planum: ei Speer demus.</p>
+        <p>Repente, Germania quae iam in collapsem esse debebat seriem bonuum absurdorum accepit. Efficacia industrialis aucta. Incrementum productionis. Total War. Speer.</p>
+        <p>Et omne hoc non quia Morto aliquid extraordinarium ceperat. Sed quia ipse hostis adiuvare statuit.</p>
+        <p>Eventus erat exacte quid quivis dux minime pragmaticus praevidisset.</p>
+        <p>Bellum quod probabiliter anno 1942 finiret… artificialiter ad annum 1944 prorogatum est.</p>
+        <p>Sed est aliquid adhuc curiosius in hac strategia. Assumit omnia perfecte accidere.</p>
+        <p>Certo momento eiusdem partitae, Strake, de India ludens, famosam invasionem equi Hamburgi effecit ad bonuses germanicos activandos adiuvandos.</p>
+        <p>Sed tunc alia decisio splendida surrexit. Brazilian, de Francia ludens, 40 divisiones carrorum in Daniam movere statuit. Quadraginta carri. In Dania.</p>
+        <p>Et sicut frequenter accidit quando plana mirifica executionem dubiam inveniunt… operatio defecit.</p>
+        <p>D Day defecit, generans debuff -20% factory output pro Alliatis. Triginta divisiones carrorum in temptamine fracto perditae.</p>
+        <p>Et simul, Germania Albert Speer, Total War et bonuses industriales massivos accepit.</p>
+        <p>Dum Alliati propriam oeconomiam debilitabant et carros amittebant… Germania buffs gigantescos accipiebat.</p>
+        <p>Et hic est ironia quam Carioca peculiariter interesantem iudicat.</p>
+        <p>Hae strategiae semper eodem argumento iustificantur: "ludum excitantiorem reddet." Sed frequenter exacte contrarium accidit.</p>
+        <p>Ludus desinit esse bellum organicum inter duos latera vincere temptantia… et in experimentum chaoticum transformatur.</p>
+        <p>In fine, nemo revera plus excitationis accipit. Solum plus horarum ludi inutilium accipiunt.</p>
+        <p>Quando Carioca ducem belli cum theatro confundentem videt, solum observat. Et ad conclusionem inevitabilem pervenit.</p>
+        <p>Aliqui homines revera bellum cum theatro confundunt.</p>`,
+    },
+
+    capitulo35: {
+      h1: 'Caput XXXV — Hostes Vocis',
+      bookText: `
+        <p>Inter omnia genera lusoribus quae campum belli habitant, sunt aliqui qui simpliciter mali sunt.</p>
+        <p>Lusores qui ludum non intelligunt. Lusores qui micro terribile habent. Lusores qui exercitus absurdos aedificant.</p>
+        <p>Carioca de eis ante locutus est. Dollynhi. Famosa "elite HOI4".</p>
+        <p>Hi lusores limitationes evidentes habent — sed est aliquid quod agnoscendum est. Illi conantur.</p>
+        <p>Etiam errando, etiam atrocitates strategicas committendo, illi agmini adiuvare temptant. Et propter hoc, mire, Carioca eos tolerare potest.</p>
+        <p>Sed est genus lusoris multo peius. Hic lusor non est simpliciter malus. Est aliquid multo periculosius.</p>
+        <p>Ille est hostis vocis.</p>
+        <p>Lusor qui deliberate statuit nullam vocem agminis sequi. Non propter defectum comprehensionis. Sed per electionem. Per rancorem. Per ego.</p>
+        <p>Hic lusor non solum male ludit. Proprium agmen sabotat.</p>
+        <p>Et contemptus quem Carioca pro hoc comportamento sentit aliquid difficile verbis descriptu est.</p>
+        <p>Quia saltem dollynhus conatur. Hostis vocis ne id quidem facit.</p>
+        <p>Plures formae sunt quibus hoc phaenomenon se manifestat. Aliqui rogata importante simpliciter ignorant. Alii omnino diversum ab eo quod conventum erat facere statuunt.</p>
+        <p>Et est etiam tertia categoria: ii qui stant. Simpliciter immobiles manent. Copias non movent. Quasi protestationem silens contra proprium agmen exercentes.</p>
+        <p>Eventus semper idem est. Socius qui agmen roborare debebat… in pondus mortuum strategicum transformatur.</p>
+        <p>Sed inter omnia exempla quae Carioca iam testatus est, paucos gradum episodii involventes Magnum Hominem de USA ludentem attingere possunt.</p>
+        <p>Status Unitae sunt, sine exaggeratione, una ex nationibus maximi momenti totius ludi. Industria. Classis. Capacitas projectionis globalis. Omnia haec USA unum ex pilariis fundamentalibus lateris alliati faciunt.</p>
+        <p>Certo momento partitae, Carioca — de UK ludens — rogatum extremo simplex fecit.</p>
+        <p>Vox clara fuit: "Magne Homo, classem tuam in mare pone ad invasionem Siciliae adiuvandum."</p>
+        <p>Simplex. Directum. Aliquid quod quivis socius minime cooperativus faceret.</p>
+        <p>Sed responsio fuit… nihil.</p>
+        <p>Et non solum Carioca. Alii etiam socii temptaverunt.</p>
+        <p>Leothekiller rogavit: classem americanam in Pacifico ponere ad classem iaponicam destruendam adiuvandum. Eventualiter, quando classis americana vicit pugnam, rogavit: "Iterum pugna. Classem eorum omnino occide."</p>
+        <p>Sed iterum… nihil.</p>
+        <p>Interea, LegioRex auxilium navale rogavit. Brazilian subsidium rogavit ad invasionem Normanniae praeparandam.</p>
+        <p>Diversas voces. Diversas rogationes. Sed Magnus Homo viam silentii strategici eligere videbatur.</p>
+        <p>Et sicut semper accidit quando major omnino reliquum agmen ignorare statuit, consequentiae accumulari coeperunt.</p>
+        <p>Invasio Siciliae in disastrum versa est. Sine adaequato auxilio navali, Carioca raidatus est et omnes divisiones in operatione involuta amisit.</p>
+        <p>Africa Australis a Iaponia capitulata est, partim quia auxilium navale necessarium simpliciter numquam apparuit.</p>
+        <p>Brazilian fere omnia quae habebat movere coactus est. 20 carri gallici, qui ad Diem D parandi erant, ad capitalem gallicam in Africa defendendam dislocari debuerunt.</p>
+        <p>Planum alliatum iam omnino inordinatum erat. Sed pessimum adhuc non advenerat.</p>
+        <p>Magnus Homo ideam habuit. Invasionem navalem Normanniae lanceare statuit. Sine communicatione. Sine coordinatione. Sine mappam etiam spectando.</p>
+        <p>Quia si spectavisset, perspexisset Brazilian illam invasionem multo ante rogaverat. Sed nunc tanki gallici moti erant. Normannia iam subsidium non habebat.</p>
+        <p>Et tamen… invasio lanceata est.</p>
+        <p>Exercitus americanus descendit. Sine adaequato auxilio. Sine coordinatione. Sine cobertura.</p>
+        <p>Et omnino destructus est. Disastrum absolutum. Verum crimen contra micro.</p>
+        <p>Carioca iam multos lusores malos vidit. Sed hostis vocis aliquid diversum est. Non solum errat. Participationem in bello collectivo quod ipse ludus exigit recusat.</p>
+        <p>Et quando major ita agere statuit, eventus raro solum error tacticus est. Est disastrum strategicum completum.</p>
+        <p>Quia in ludo agminis… Nihil periculosius est quam socius qui socius esse desinere statuit.</p>`,
+    },
+
+    capitulo36: {
+      h1: 'Caput XXXVI — Sabotores Proprii Agminis',
+      bookText: `
+        <p>Sunt lusores mali. Sunt lusores limitati. Sunt etiam dollynhi, pauperes creaturae quae per campum belli sine via vagantur.</p>
+        <p>Sed omnes hi, quamlibet limitati, adhuc temptant ludere.</p>
+        <p>Et Carioca, quamvis cum contemptu, hoc saltem agnoscit. Quia temptare, etiam sine capacitate, adhuc forma respectus erga ludum est.</p>
+        <p>Sed est genus lusoris quod omnibus his infra est. Categoria quam Carioca cum frigoritate fere scientifica observat.</p>
+        <p>Sabotores proprii agminis.</p>
+        <p>Et quod hanc creaturam peculiariter curiosam facit non est ignorantia. Quia ignorantia curari potest. Non est limitatio. Quia limitatio circumiri potest.</p>
+        <p>Quod sabotorem definit aliquid multo mirabilius est. Discere recusat.</p>
+        <p>Est genus lusoris qui omnia accipit. Absolute omnia.</p>
+        <p>Carioca build explanat. Carioca template mittit. Carioca design tank mittit. Carioca in DM scribit exacte quid faciendum sit.</p>
+        <p>Interdum labor tam completus est ut facile in PDF integrum transformari possit, cum quoque passu build explanato. Vel etiam PowerPoint, cum slides in quibus exacte quid producere, quando producere, et cur producere explicatur.</p>
+        <p>Cognitio praeparata traditur. Manducata. Ordinata. Fere impossibilis ad fallendum.</p>
+        <p>Sed tamen… Lusor ad omnia spectat. Et simpliciter statuit nihil applicare.</p>
+        <p>Non quia non intellexit. Non quia non potuit. Sed quia, in propria mente, plus scire credit.</p>
+        <p>Credit sapientiam possidere quam numquam demonstravit possidere.</p>
+        <p>Et ita, oculis huius creaturae curiosae, Carioca — magister artis micro, aliquis cuius excellentia tam in genetica quam in intellectu se manifestat — lusor quilibet videtur. Lusor irrelevans. Consilium dispensabile.</p>
+        <p>Et ita sabotator nascitur. Non ex ignorantia. Sed ex arrogantia inani.</p>
+        <p>Intra hanc categoriam plures gradus existunt. Aliqui solum irritantes sunt. Alii periculosi fiunt.</p>
+        <p>Sicut LegioRex. Propter rationem quae logicam omnino fugit, etiam sciens in meta mod tank destroyers obsoletos esse, eos producere pergit. Semper. Sine exceptione.</p>
+        <p>Eventus sunt builds inferiores. Tanks minus efficientes. Dissipatio constans potentialis.</p>
+        <p>Sed tamen… hoc genus erroris raro totam partitam destruit. Est stultitia persistens. Pertinacia fere folklorica.</p>
+        <p>Infeliciter, non omnes casus tam innoxii sunt.</p>
+        <p>Quia sunt lusores quorum recusatio vocem sapientiae audiendi simplicem pertinaciam superat. Et in territorium auto-sabotationis completae ingreditur.</p>
+        <p>Hic duo exempla memorabilia surgunt. Magnus Homo. Et Facedamorte.</p>
+        <p>Lusores qui, quando in eodem agmine apparent, plus strages causare possunt quam hostem vere competentem confrontare.</p>
+        <p>Quia contra bonum hostem, saltem scimus quid expectare. Scimus eum cum intelligentia pugnaturum. Praedicabilitas existit.</p>
+        <p>Etiam dollynhi proprii agminis hanc habent. Sed Magnus Homo et Face sub alia logica operantur. Non solum male ludunt. Contra proprium agmen ludunt.</p>
+        <p>Magnus Homo vocem sapientiae audire recusabat simpliciter propter biram contra Cariocam.</p>
+        <p>Etiam si hoc significabat cladem acceptare. Etiam si hoc significabat propriam aequam destruere. Omne hoc solum ad proprium ego conservandum.</p>
+        <p>Sed tamen… est aliquis qui peior esse potest. Multo peior. Facedamorte.</p>
+        <p>Creatura quae de Iaponia ludere statuit. Una ex nationibus maxime momenti axis. Natio cuius desempenho dimidium ludi definit.</p>
+        <p>Minimum quod expectatur est impactus. Pressio in Pacifico. Contrôlum navalum. Capacitas bellum sustinendi.</p>
+        <p>Sed Face factum efficere potest quod pauci ne imaginari quidem possent.</p>
+        <p>Bellum incipit. Perdere incipit. Et tunc decisionem capit quae etiam Cariocam in silentio manere facit.</p>
+        <p>Exercitum integrum simpliciter delet. In ludo competitivo. Exercitum delet. Classem. Stock belli. Omnia.</p>
+        <p>Capitulatio voluntaria. Donum giganteum alliatis.</p>
+        <p>Quia cum hoc alliati accessum immediatum ad centenas fabricarum iaponicarum accipiunt, dominium completum Pacifici, et libertatem totalem ad omnes copias in Europa concentrandas.</p>
+        <p>Et quando Carioca talia acta observat, non solum contemptum sentit. Sentit aliquid adhuc profundius.</p>
+        <p>Quia errores inevitabiles sunt. Burrice communis est. Limitatio genetica pars conditionis humanae est.</p>
+        <p>Sed deliberate proprium agmen laedere statuere… Hoc etiam infra dollynhos est.</p>
+        <p>Quia dollynhus limitatus est. Frequenter inutilis. Sed tamen… temptare ludum ludere conatur.</p>
+        <p>Sabotator etiam conatur. Sed alio modo. Contra proprium agmen conatur.</p>`,
+    },
+
+    capitulo37: {
+      h1: 'Caput XXXVII — De Iis Qui Ludum Victum Amittunt',
+      bookText: `
+        <p>Sunt clades quae honorabiles sunt.</p>
+        <p>Clades ubi hostis simpliciter superior fuit. Ubi strategia adversaria splendida fuit. Ubi micro alterius lateris impeccabile erat et nihil faciendum erat.</p>
+        <p>Carioca hoc genus cladis respicit. Dignitatem habet. Sensum habet.</p>
+        <p>Et deinde est aliud genus cladis. Genus quod dignitatem non habet. Quod sensum non habet.</p>
+        <p>Genus quod Carioca cum mixtione incredulitatis, irae et tristitiae philosophicae difficilis ad describendum observat.</p>
+        <p>Clades eius qui omnia ad vincendum habebat. Et nihilominus perdidit.</p>
+        <p>Pauci ludi in historia servidoris ad id quod illo die accidit proxime accesserunt. Ludus quem Carioca, sine exaggeratione, unum ex episodis maxime epicis — et maxime tragicis — iam testatis iudicat.</p>
+        <p>Elenchus erat hic. Derp et Morto de Germania ludentes. Largatius in Sovieticis. Gamemisto in Iaponia. Facedamorte in Statibus Unitatis. Stauffen in Regno Unito. Vox Sapientiae, Carioca, in Italia.</p>
+        <p>Ludus qui, compositione, iam memorabilem fore promittebat. Et fuit. Sed non modo quo Alliati expectabant.</p>
+        <p>In primis actibus partitae, Axis omnia temptavit. Safari lanceatum est. Sea Lion temptatus est. Motus audaces, strategiae aggressivae, classica quaestio rapidae conversionis quam Axis frequenter ad superviventiam indiget.</p>
+        <p>Et Alliati responderunt. Sovietici, in specie, vis naturae fuerunt. Avancaverunt. Berolinum attigerunt. Totum septentrionem Germaniae ceperunt, totam oram orientalem Europae, minores Balcanorum unum post alterum capitularunt. Sea Lion repulsus est. Continens Galliae ab Alliatis occidentalibus invasa et capta est.</p>
+        <p>Mappam illo momento spectando, conclusio obvia erat. Ludus victus erat.</p>
+        <p>Berolinum occupatum. Septentrion Germaniae sub contrôle sovietico. Oriens europaeus totus in manibus Aliatorum. Gallia in occidente recuperata. Axis circumdatus, compressus, sine spatio respirandi.</p>
+        <p>Quivis spectator externus, illam mappam videns, idem diceret: solum quaestio temporis est. Et verum esset. Si aliud agmen esset.</p>
+        <p>Quia tunc incepit id quod Carioca simpliciter Magna Stagnatio vocat.</p>
+        <p>Avancus sovieticus — qui devastans fuerat, qui Berolinum attigerat — stetit.</p>
+        <p>Non propter resistentiam germanicam extraordinariam. Non quia Axis strategiam miraculosam invenerat.</p>
+        <p>Sed propter omnia quae iam in hoc libro discussa sunt. Micro tardum. Defectus guarnisonis. Adaptabilitas impedita. Reactio guttatim. Decisiones quae sero nimis veniebant.</p>
+        <p>Et insuper, phantasmata capitulorum priorum redierunt ad obsidendum.</p>
+        <p>Invasio equi Sovieticorum Berolinum — ille motus in Capite XXXIV detailatus — ad chaos contribuit pro eo solvendo.</p>
+        <p>Et historica recusatio Largationis carros aedificandi — tam late in Capite XXVII documentata — nunc pretium suum finale exigebat. Exercitus sovieticus in theoria giganteus, sed sine necessario punch corazzato ad breccas explorandas. Colossus chartaceus infanteriam lineas penetrare temptantem dum momentum effugiebat.</p>
+        <p>Avancus non accidit. Collapsus finalis Axis non venit.</p>
+        <p>Et interea, in altera parte mundi, Iaponia plana sua habebat.</p>
+        <p>Cum Alliatis occidentalibus distractis, cum UK et Francia in Europam intentis, classis et exercitus iaponici id quod omnis praedator quaerit invenerunt: flancum detectum.</p>
+        <p>Contra-invasio iaponica lanceata est. Et inopinabile accidit.</p>
+        <p>Continens gallica cecidit. Continens britannica cecidit. Stauffen et Facedamorte, qui in ludo fere iam concluso participaverant, nationes suas Iaponiae capitulantes viderunt dum Sovietici paucos passus a Berolino immobiles stabant.</p>
+        <p>Sed pessimum adhuc non advenerat.</p>
+        <p>Quia Largatius, singulari determinatione qua se distinguit, factum efficere potuerat quod Carioca raro in ullo ludo videt.</p>
+        <p>Sovietici propriam manpower ad nihilum redegerant.</p>
+        <p>Triginta milia aeroplanorum in aere. Tria milia ex latere germanico. Superioritas aerea tam absoluta ut comica esset nisi tragica esset. Et tamen, in terra, exercitus sovieticus se dissolvi coepit.</p>
+        <p>Sine manpower. Sine carris ad explorandum. Sine guarnisone ad territorium captum tenendum. Divisiones quae ante avancabant retrahi coeperunt. Provinciae quae sanguine et tempore ad capiendam constiterant manus mutare coeperunt.</p>
+        <p>Colossus qui Berolinum attigerat intus se dismontabat.</p>
+        <p>Et Carioca omnia haec observabat cum illa sensatione specifica quam solum hoc genus ludi producere potest.</p>
+        <p>Non est ira simplex. Non est solum frustration. Est aliquid propius luctui.</p>
+        <p>Quia hic ludus non propter casum amissum est. Non propter splendidissimum ictum Axis amissum est. Amissum est propriis alliatis.</p>
+        <p>Micro quod non venit. Carris qui numquam aedificati sunt. Guarnisoni quam nemo posuit. Reactioni quae sero nimis venit.</p>
+        <p>Est verbum in sermone lusitanico quod Carioca ad hoc phaenomenon peculiariter aptum iudicat. Apostasia.</p>
+        <p>Derelictio. Renuntiatio. Traditio non hosti, sed ipsis principiis quae quemque ducem regere debebant.</p>
+        <p>Ars Micro non est conceptus abstractus. Non est theoria librorum. Est differentia inter territorium tenendum et amittendum. Inter brecham explorandum et claudendam sinendum. Inter manpower hostis ad nihilum redigendum et propriam ad nihilum redigendum.</p>
+        <p>Et quando ea deseritur — etiam per momentum, etiam per negligentiam, etiam per pigritiam — pretium exacte hoc est.</p>
+        <p>Ludus victus. Victoria quae in mappa, in statisticis, in logica belli existebat. In cladem transformata.</p>
+        <p>Carioca iam ludos per incompetentiam amissos vidit. Iam ludos per ego amissos vidit.</p>
+        <p>Sed est aliquid specialiter crudele in hoc genere cladis.</p>
+        <p>Quia in hoc ludo, Alliati victoriam viderunt. Eam tetigerunt. Ad paucos passus ab omnibus concludendis steterunt.</p>
+        <p>Et tunc eam labi sinebant. Non in manus hostis. In proprias manus vacuas.</p>
+        <p>Et Carioca, mappam finalem illius ludi observans, ad conclusionem pervenit quae fortasse simplicissima totius huius libri est.</p>
+        <p>Non existit clades amarior quam illa quam tibi ipse aedificasti.</p>
+        <p>Et non existit lectio difficilior ad discendum quam haec:</p>
+        <p>Ludum in mappa vincere non sufficit. In micro etiam vincendum est. Semper.</p>`,
+    },
+
   /* ── Detect page ── */
   function getPageKey() {
     const p     = location.pathname.toLowerCase();
