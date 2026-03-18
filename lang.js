@@ -27,6 +27,9 @@
         <p>Patientia eius limitata est, tolerantia adhuc brevior. Bonos a malis lusoribus separare actus naturalis est, tam inevitabilis quam transitus temporis. Fastus Cariocae ardet ut industria in bello, et verba dura eius non placere quaerunt, sed docere: humiliatio saepe magister est quem tutoriales esse non possunt.</p>
         <p>Micro bene executum telum eius certissimum est. Oppugnationes et motus eius praecisi, celeres et inevitabiles sunt. Sine timore superioritatem suam in micro declarat — non ut vanitas, sed ut constatatio rerum evidentium. Multi franguntur eius franquitudine; pauci eventus eius refutare possunt. Dum alii disputant, Carioca iam aliud locum hostis ceperat.</p>
         <p>Fiducia et arrogantia distinctae sunt: prima cum competentia ambulat; altera inanis est. Carioca non iucunditatem promittit — efficientiam praestat. Oratio proelia non vincit; micro bene executum sic vincit. Cum serio ludere statuit, victoria iam in manibus eius est, et adversarius — etiam si non sentit — iam victus est.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo2: {
@@ -37,6 +40,9 @@
         <p>Qui hoc donum non possident in cyclo erroris vivunt: in pugna pausant, divisiones obliviscuntur et in chatto plorant. Non odium est, solum contemptus: non omnis miles natus est ad carros in blitz ducendos. Exercitatio potest mediocrem meliorare, sed solum genetica monstrum micro creat.</p>
         <p>Eo momento quo bellum accelerat et tempus comprimitur, soli naturaliter celeres in late game supersunt. Multi credunt laborem talentum aequare, sed pauci eo perveniunt ubi micro iam cum vantaggio incepit. Alii nati sunt ad sacculos hostium claudendos; alii, ad claudendos esse. Est lex invisibilis lobbii: natura, non iniustitia, supervivientiam definit.</p>
         <p>Carioca concludit cum sapientia crudelis et silentis: talentum non eligitur, fatum accipitur, et secundum illud luditur.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo3: {
@@ -65,6 +71,9 @@
         <p>Alta vox in chatto errorem in rectum non convertit. Opinio competentiam non substituit.</p>
         <p>Strategia mala non solum inefficax est — mortua nascitur.</p>
         <p>Et qui logicam, numeros et systemata complexa non intelligit ius non habet iudicandi eum qui ludum dominatur.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo4: {
@@ -74,6 +83,9 @@
         <p>Logica fundamentum victoriae est, et sine ea quaevis constructio ruit. Qui supply, oeconomiam et timing ignorant, proprii erroris structuralis captivi fiunt. Nulla honor in ruina praedicabili est, nec gloria in chao sibi imposito.</p>
         <p>Carioca talentum natum a mediocritate distinguit: alii machinas belli aedificant, alii clades industriales aedificant. Alii cum sophisticatione errant; alii modo elementari errant, sine discendo. Lex crudelis est: efficacia nascitur ex coniunctione rationis, micro et visionis totius.</p>
         <p>Micro celeris sine plano inutilis est; planum sine executione praecisa sterile est. Solus qui ambo intelligit campum belli dominatur. Carioca hanc lectionem simplici sed definitiva sententia signat: "Quae est historia tua in hoi4?" — victoria non verbis, sed eventibus mensuratur.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo5: {
@@ -103,6 +115,9 @@
         <p>Etiam dollynhus macro respectabilem assequi potest. Etiam lusor naturaliter malus aliquid functionale aedificare potest.</p>
         <p>Satis est dedicatio ad exprimendum ex propria mente quamque gutam capacitatis disponibilis.</p>
         <p>Meritum proprium limites non abolet. Sed eos impellere potest usque quo multi numquam perveniunt — incluso iis qui cum plus nati sunt et minus fecerunt.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo6: {
@@ -112,6 +127,9 @@
         <p>Qui loquuntur sine scientia, sine logica aedificant et timing, supply vel oeconomiam ignorant — hi ius non habent seipsos magistros proclamandi. Victimae sunt propriae ignorantiae, a primo ictu damnati ad clades repetendas.</p>
         <p>Carioca bonos a malis lusoribus sine misericordia separat. Non est arrogantia, est efficacia. Intelligit veram fiduciam cum competentia ambulare; falsam inanem esse. Micro bene executum, strategia clara et visio totius determinant quis supersit et quis solum ut spectator propriae calamitatis memoretur.</p>
         <p>Iudicium Cariocae directum est: pauci cum talento nascuntur, multi nascentur ad errores patientes. Proprium fatum agnoscere, proprias limitationes intelligere et secundum eas ludere ultima lectio est. Efficacia non negotiabilis est; victoria inevitabilis eventus est eius qui ludum in sua totalitate intelligit.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo7: {
@@ -145,6 +163,9 @@
         <p>Et si mappa cecidit, si frons fregit, si bellum amissum est, scias:</p>
         <p>Micro rectum erat. Logica recta erat. Carioca rectus erat.</p>
         <p>Erratum erat mundus.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo8: {
@@ -180,6 +201,9 @@
         <p>Et etiam cum mappa cadit, certitudo manet:</p>
         <p>Bellum non propter inferioritatem amissum est.</p>
         <p>Amissum est quia totus mundus intervenire debuit.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo9: {
@@ -192,6 +216,9 @@
         <p>Lobbium non parcit. Quaeque mora, quique error versionis, quique ictus inutilis subscriptio est propriae mediocritatis. Tempus Cariocae pretiosum est; ille crudus observat dum hi inutiles minuta in horas transformant. Et hoc non propter casum, sed propter stultitiam puram, sine excusatione, sine redemptione.</p>
         <p>Lectio crudelis est: attentio, cura et praeparatio non suggestiones sunt — requisita fundamentalia supervivientiae sunt. Qui obvium ignorat, sive ut Stauffen onerans sive ut Caio Mamando in versione erronea ingrediens, nec bouton "Start" premere meretur.</p>
         <p>Et ita Carioca sententiam fert, sine pietate: lobbium tribunal est, horologium et campus belli antequam primum proelium incipit. Et stultitia punitur. Semper.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo10: {
@@ -210,6 +237,9 @@
         <p>Lectio brutalis est: talentum contra arrogantiam non immunizat. Genetica superior decisiones stupidas non salvat. Micro celeris imprudentiam monumentalem non compensat. Quando lusor suam invincibilitatem credere incipit, clades possibilitas esse desinit et fatum fit.</p>
         <p>Carioca sine haesitatione sententiam fert:</p>
         <p>Superbia error est eorum qui se supra ludum esse credunt. Et ludus semper exigit. Semper.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo11: {
@@ -235,6 +265,9 @@
         <p>Carioca hanc veritatem frigoritate chirurgica signat:</p>
         <p>Non refert quot ingenia in minoribus habeas. Si maior dollynhus est, agmen iam in inopia natum est.</p>
         <p>Nam in HOI4, sicut in bello, nexus imbecillior non compromittit — damnat.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo12: {
@@ -281,6 +314,9 @@
         <p>Et fere nemo qui "innovare" conatur hanc competentiam possidet.</p>
         <p>In fine, builds eorum non in historiam ingrediuntur.</p>
         <p>Ingrediuntur in folkclorem stultitiae.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo13: {
@@ -308,6 +344,9 @@
         <p>Et quodque ictum in tela parva veritatem inevitabilem resonat:</p>
         <p>Non est micro. Non est efficacia. Non est dignitas strategica.</p>
         <p>Solum confirmatio silens limitationis quam nec meta, nec exercitatio, nec miraculum technologicum umquam salvare poterit.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo14: {
@@ -332,6 +371,9 @@
         <p>Carioca hanc veritatem sine lenitate signat:</p>
         <p>Aequilibrium non est aequales occasiones dare. Est inaequalem pondus agnoscere.</p>
         <p>Et solum illi qui hoc intelligere possunt audere debent fatum partitae decidere.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo15: {
@@ -360,6 +402,9 @@
         <p>Nam HOI4, quando inaequum est, bellum esse desinit et in ritum humiliationis statisticae transformatur.</p>
         <p>Et Carioca, qui conflictum dignum, efficaciam realem et tensionem strategicam quaerit, hoc ludum vocare recusat.</p>
         <p>Est solum dissipatio temporis sub specie partitae.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo16: {
@@ -391,6 +436,9 @@
         <p>Carioca sine haesitatione sententiam fert:</p>
         <p>Mechanizatus non est evolutio. Est insidiae pro eis qui efficaciam non intelligunt.</p>
         <p>Nam in HOI4, sicut in bello, non vincit qui unitatem "pulchriorem" habet. Vincit qui plus carros pugnantes, plus stock sustentans et plus impactum realem in mappa habet.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo17: {
@@ -436,6 +484,9 @@
         <p>Et quando dominium totale est, etiam contemptus legitimus fit.</p>
         <p>Nam toxicitas Cariocae partitas non destruit.</p>
         <p>Illusiones destruit, egos fragiles et falsas aequivalentias.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo18: {
@@ -464,6 +515,9 @@
         <p>Quia ille qui provocationem evitat non suam honorem protegit — solum suam limitationem protegit.</p>
         <p>Et ita tragoedia consolidatur:</p>
         <p>Elite sese vocant, sed aeternaliter tamquam spectatores gradus ludi quem numquam ausi sunt confortare vivunt.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo19: {
@@ -507,6 +561,9 @@
         <p>Differentia inter ludum aequum et collapsem inevitabilem. Inter victoriam strategicam et disastrum annuntiatum.</p>
         <p>Et nulla tabella, quamvis bene formata sit,</p>
         <p>auctoritatem habet rescribendi id quod campus belli iam decrevit.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo20: {
@@ -547,6 +604,9 @@
         <p>Quia in universo Cariocae,</p>
         <p>etiam emoji veritatem fundamentalem reflectere debet:</p>
         <p>Parvum esse numquam optio fuit.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo21: {
@@ -581,6 +641,9 @@
         <p>Et ita monitio Cariocae registratur:</p>
         <p>Quando administratio propter ego corrumpitur, ludus non solum aequilibrium amittit — legitimitate amittit.</p>
         <p>Quia HOI4 builds malas, dollynhos, lobbies chaoticos superare potest — sed vix superat quando arbitri in causam propriam ludere incipiunt.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo22: {
@@ -607,6 +670,9 @@
         <p>Quia ironia est amplificator hierarchiae. In manibus Cariocae, in spectaculum intelligentiae et contemptu eleganti fit. In manibus malis, in strepitum incommodum transformatur.</p>
         <p>Carioca tunc sententiam fert: Nem toda língua nasceu para a ironia. Non omnis lingua ad ironiam nata est. Non omne ego pondus derisus sustinet.</p>
         <p>Quia ironia non est aliquid quod temptatur. Est aliquid quod sustinetur.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo23: {
@@ -631,6 +697,9 @@
         <p>Ita Carioca sententiam fert: Vera ingeniositas in design blindatorum non est in cumulando breakthrough ad caelum. Est in intelligendo quando sistendum sit.</p>
         <p>Quia strategus sapiens non aedificat carrum fortissimum possibilem. Aedificat carrum satis fortem ut in copia satis exsistere possit.</p>
         <p>Cavete ergo temptationem turrium excessivarum. Quia ille qui carrum pretiosum adorat non arma belli designat. Monumentum propriae incomprehensionis pretii designat.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo24: {
@@ -656,6 +725,9 @@
         <p>Alii per excessum peccant. Alii per inopiam. Sed ambo in eadem virtute fundamentali strategistae deficiunt: aequilibrio.</p>
         <p>Ita Carioca sententiam fert: Oeconomia quae capacitatem pugnandi destruit non est efficacia. Est solum mediocritas sub specie prudentiae dissimulata.</p>
         <p>Et in campo belli, mediocritas non avanctat. Solum plus scobis producit pro hoste transitu.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo25: {
@@ -689,6 +761,9 @@
         <p>Ita regula non scripta surgit, inter veteranos servidoris silenter repetita:</p>
         <p>Si puppet ludis, bis cogita antequam autonomiam augeas.</p>
         <p>Quia dum pro te parvus passus versus independentiam videtur… pro overlord tuo, collapsem silentum exercitus integri significare potest.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo26: {
@@ -720,6 +795,9 @@
         <p>Pro eis qui artem Micro studunt et praticant, haec mentalitas peculiariter frustrans est.</p>
         <p>Carri a breakthrough, mobilitate, capacitate explorationis et organizatione adaequata dependent.</p>
         <p>Quando lusor hanc synergiam deliberate ignorat, ille <strong>potentiale propria unita deliberate limitat</strong>.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo27: {
@@ -754,6 +832,9 @@
         <p>Infanteria bellum sustinere potest. Sed saepe carri sunt qui <strong>vincunt</strong>.</p>
         <p>Et ita, de tempore in tempus, Carioca alium ex his exercitibus invenit. Et eos spectat eodem vultu quo dux equitum exercitum ad proelium euntem spectaret… <strong>sine equis</strong>.</p>
         <p>Quia pugnare possibile est. Sed vincere… alia historia est.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo28: {
@@ -788,6 +869,9 @@
         <p>CAS una ex armis maxime momenti mod manet. Eam ignorare error est. Sed eam absolutizare error aeque magnus est.</p>
         <p>CAS fighters ad caelum protegendum, carros ad lineas frangendas et exercitus terrestres capaes victos explorandos indiget.</p>
         <p>Sine his, etiam milia aeroplanorum solum modum valde caram belli amittendi fiunt.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo29: {
@@ -820,6 +904,9 @@
         <p>Ita unum ex maximis paradoxis huius mod nascitur. Unitas appellata <strong>paratrooper</strong> in unam ex <strong>unitatibus defensivis pertinacissimis ludi</strong> facta est.</p>
         <p>Illi ibi simpliciter manent. Firmi. Persistentes. Frangere recusantes.</p>
         <p>Et interdum, in bello, <strong>hoc est omne quod ad totum exercitum sistendum necessarium est</strong>.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo30: {
@@ -848,6 +935,9 @@
         <p>Semper quando nova campania incipit, aliquis inevitabiliter rogat: <em>"Num hac vice Axis Africam transibit?"</em></p>
         <p>Interdum transit. Sed saepe… non transit.</p>
         <p>Et ita desertum victimas suas recipere pergit, omnibus persuasis <strong>hanc vicem diversam fore</strong>. Donec, sero nimis, discant Africam non parcere.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo32: {
@@ -875,6 +965,9 @@
         <p>Quia ille qui Romaniam mari invadit non solum territorium quaerit. Quaerit aliquid multo pretiosius:</p>
         <p>collapsem fiduciae adversariae.</p>
         <p>Et quando haec fiducia frangitur, nec maximus exercitus errorem fatalem qui eam genuit occultare potest: Portum vacuum ante mare possibilitatum plenum.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo33: {
@@ -906,6 +999,9 @@
         <p>Videt aliquid multo simplicius.</p>
         <p>Ducem qui oblitus est obiectivum belli non esse eam dramaticam reddere. Obiectivum est eam vincere.</p>
         <p>Et quando victoria iam garantita est… Quod restat facere est solum arcam claudere.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo34: {
@@ -943,6 +1039,9 @@
         <p>In fine, nemo revera plus excitationis accipit. Solum plus horarum ludi inutilium accipiunt.</p>
         <p>Quando Carioca ducem belli cum theatro confundentem videt, solum observat. Et ad conclusionem inevitabilem pervenit.</p>
         <p>Aliqui homines revera bellum cum theatro confundunt.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo35: {
@@ -986,6 +1085,9 @@
         <p>Carioca iam multos lusores malos vidit. Sed hostis vocis aliquid diversum est. Non solum errat. Participationem in bello collectivo quod ipse ludus exigit recusat.</p>
         <p>Et quando major ita agere statuit, eventus raro solum error tacticus est. Est disastrum strategicum completum.</p>
         <p>Quia in ludo agminis… Nihil periculosius est quam socius qui socius esse desinere statuit.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo36: {
@@ -1032,6 +1134,9 @@
         <p>Sed deliberate proprium agmen laedere statuere… Hoc etiam infra dollynhos est.</p>
         <p>Quia dollynhus limitatus est. Frequenter inutilis. Sed tamen… temptare ludum ludere conatur.</p>
         <p>Sabotator etiam conatur. Sed alio modo. Contra proprium agmen conatur.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
     capitulo37: {
@@ -1086,11 +1191,17 @@
         <p>Non existit clades amarior quam illa quam tibi ipse aedificasti.</p>
         <p>Et non existit lectio difficilior ad discendum quam haec:</p>
         <p>Ludum in mappa vincere non sufficit. In micro etiam vincendum est. Semper.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
     },
 
 
     introducao: {
       h1: 'INTRODUCTIO — PRINCIPIUM SAPIENTIAE CARIOCAE',
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
       bookText: `
         <p class="capitular">In principio non erat meta, nec micro, nec logica belli. Erant solum elites hoi4, lobbiae cum dollynhis et minores auxiliatores qui multum loquebantur sine umquam vincendo.</p>
         <p>Et tunc surrexit Carioca — non ut qui iucunditatem quaerit, sed ut qui ordinem chao imponit. Non venit dulciter docere, nec fracasatos phrasibus pulchris hortari. Venit crudam realitatem ludi exponere.</p>
@@ -1123,6 +1234,9 @@
 
     sumario: {
       h1: 'Index Capitulorum',
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
       summaryLinks: {
         'capitulo1':  'Caput I — De Bello, de Fastu et de Micro',
         'capitulo2':  'Caput II — De Fato Genetico Micro',
@@ -1174,6 +1288,7 @@
       heroTagline:     'Micro domina.<br>Lusor melior fias.',
       navSumario:      'INDEX',
       navIntroductio:  'INTRODUCTIO',
+      navInicio:       'INITIUM',
     },
 
   }; /* end TRANSLATIONS */
@@ -1194,7 +1309,8 @@
     if (bt) savedOriginals.bookText = bt.innerHTML;
     // sumario: save link texts
     document.querySelectorAll('.summary a').forEach(a => {
-      const key = (a.getAttribute('href') || '').replace(/.*\/(capitulo\d+)\.html/, '$1');
+      const m = (a.getAttribute('href') || '').match(/(capitulo\d+)\.html/i);
+      const key = m ? m[1].toLowerCase() : '';
       if (key) savedOriginals['link_' + key] = a.textContent;
     });
     // index: save warning + hero fields
@@ -1206,8 +1322,9 @@
     const hh1 = document.querySelector('.hero-content h1');     if (hh1) savedOriginals.heroH1         = hh1.innerHTML;
     const hh2 = document.querySelector('.hero-content h2');     if (hh2) savedOriginals.heroH2         = hh2.innerHTML;
     const ht  = document.querySelector('.hero-tagline');        if (ht)  savedOriginals.heroTagline    = ht.innerHTML;
-    const ns  = document.querySelector('a[href="sumario.html"]');   if (ns)  savedOriginals.navSumario    = ns.textContent;
-    const ni  = document.querySelector('a[href="introducao.html"]');if (ni)  savedOriginals.navIntroductio= ni.textContent;
+    const nc_  = document.querySelector('a[href="index.html"], a[href="../index.html"]');           if (nc_)  savedOriginals.navInicio      = nc_.textContent;
+    const ns_  = document.querySelector('a[href="sumario.html"], a[href="../sumario.html"]');       if (ns_)  savedOriginals.navSumario    = ns_.textContent;
+    const ni_  = document.querySelector('a[href="introducao.html"], a[href="../introducao.html"]'); if (ni_)  savedOriginals.navIntroductio= ni_.textContent;
     originsSaved = true;
   }
 
@@ -1219,7 +1336,8 @@
     if (bt && savedOriginals.bookText !== undefined) bt.innerHTML = savedOriginals.bookText;
     // sumario links
     document.querySelectorAll('.summary a').forEach(a => {
-      const key = (a.getAttribute('href') || '').replace(/.*\/(capitulo\d+)\.html/, '$1');
+      const m = (a.getAttribute('href') || '').match(/(capitulo\d+)\.html/i);
+      const key = m ? m[1].toLowerCase() : '';
       if (key && savedOriginals['link_' + key] !== undefined) a.textContent = savedOriginals['link_' + key];
     });
     // index fields
@@ -1231,8 +1349,9 @@
     const hh1  = document.querySelector('.hero-content h1');      if (hh1  && savedOriginals.heroH1          !== undefined) hh1.innerHTML  = savedOriginals.heroH1;
     const hh2  = document.querySelector('.hero-content h2');      if (hh2  && savedOriginals.heroH2          !== undefined) hh2.innerHTML  = savedOriginals.heroH2;
     const ht   = document.querySelector('.hero-tagline');         if (ht   && savedOriginals.heroTagline     !== undefined) ht.innerHTML   = savedOriginals.heroTagline;
-    const ns   = document.querySelector('a[href="sumario.html"]');    if (ns   && savedOriginals.navSumario    !== undefined) ns.textContent = savedOriginals.navSumario;
-    const ni   = document.querySelector('a[href="introducao.html"]'); if (ni   && savedOriginals.navIntroductio!== undefined) ni.textContent = savedOriginals.navIntroductio;
+    const nc   = document.querySelector('a[href="index.html"], a[href="../index.html"]');           if (nc   && savedOriginals.navInicio      !== undefined) nc.textContent = savedOriginals.navInicio;
+    const ns   = document.querySelector('a[href="sumario.html"], a[href="../sumario.html"]');       if (ns   && savedOriginals.navSumario    !== undefined) ns.textContent = savedOriginals.navSumario;
+    const ni   = document.querySelector('a[href="introducao.html"], a[href="../introducao.html"]'); if (ni   && savedOriginals.navIntroductio!== undefined) ni.textContent = savedOriginals.navIntroductio;
   }
 
   /* ── Apply Latin ── */
@@ -1249,7 +1368,8 @@
     // sumario: translate chapter links
     if (t.summaryLinks) {
       document.querySelectorAll('.summary a').forEach(a => {
-        const key = (a.getAttribute('href') || '').replace(/.*\/(capitulo\d+)\.html/, '$1');
+        const m = (a.getAttribute('href') || '').match(/(capitulo\d+)\.html/i);
+        const key = m ? m[1].toLowerCase() : '';
         if (key && t.summaryLinks[key]) a.textContent = t.summaryLinks[key];
       });
     }
@@ -1262,8 +1382,9 @@
     if (t.heroH1)          { const el = document.querySelector('.hero-content h1');  if (el) el.innerHTML   = t.heroH1; }
     if (t.heroH2)          { const el = document.querySelector('.hero-content h2');  if (el) el.innerHTML   = t.heroH2; }
     if (t.heroTagline)     { const el = document.querySelector('.hero-tagline');     if (el) el.innerHTML   = t.heroTagline; }
-    if (t.navSumario)      { const el = document.querySelector('a[href="sumario.html"]');    if (el) el.textContent = t.navSumario; }
-    if (t.navIntroductio)  { const el = document.querySelector('a[href="introducao.html"]'); if (el) el.textContent = t.navIntroductio; }
+    if (t.navInicio)       { const el = document.querySelector('a[href="index.html"], a[href="../index.html"]');       if (el) el.textContent = t.navInicio; }
+    if (t.navSumario)      { const el = document.querySelector('a[href="sumario.html"], a[href="../sumario.html"]');    if (el) el.textContent = t.navSumario; }
+    if (t.navIntroductio)  { const el = document.querySelector('a[href="introducao.html"], a[href="../introducao.html"]'); if (el) el.textContent = t.navIntroductio; }
   }
 
   /* ── CSS ── */
