@@ -1197,6 +1197,50 @@
     },
 
 
+    capitulo38: {
+      h1: 'Caput XXXVIII — De Iis Qui Magnas Expeditiones et Ludos Non Historicos Faciunt',
+      bookText: `
+        <p>Carioca cum curiositate spectat eos qui historiam reficere amant. Qui magnas clades magnasque victorias sumunt et cogitant: "melius fieri poterat." Et eunt, scaenas componunt, decisiones mutant, vias recreant.</p>
+        <p>Primo solum iocus videtur. Sed non est solum hoc.</p>
+        <p>Quia cum aliquis proelium, bellum vel decisionem historicam reficere conatur, res incipit videre quae prius latebant. Errorem calculi hic, nimiam fiduciam illic, electionem in calore momenti factam quae postea omnia mutavit.</p>
+        <p>Carioca percipit hanc cupiditatem recreandi tempora suum valorem habere.</p>
+        <p>Ducum vitia exponit qui saepe intangibiles habentur. Ostendit etiam magnos imperatores errasse. Victoriam non semper genialitatem fuisse — interdum casum. Et cladem non semper incompetentiam fuisse — interdum defectum optionis.</p>
+        <p>Sed etiam periculum absconditum in hoc est.</p>
+        <p>Nimis facile est praeteritum ex tranquillitate praesentis iudicare. Qui historiam reficit iam eventum novit. Iam errorem cognoscit. Iam ubi male cessit vidit. Et hoc illusionem superioritatis creat.</p>
+        <p>Carioca in hoc non cadit.</p>
+        <p>Intellegit praeteritum analysin utilem esse, sed solum cum humilitate venit. Quia decisio vera non cum mappa completa in manu fit. Fit in improviso, in pressione, in incognito.</p>
+        <p>Sed est adhuc alius deviatio, subtilior — et fortasse periculosior.</p>
+        <p>Apparet in expeditionibus magnis, sicut illae quas Yato, Legio, Brazilian, Morto, Hórman et Noxy ordinant. Expeditiones quae per saecula transcurrunt, ab Imperator: Rome usque ad aetatem Victoriae II, ubi unusquisque lusor imperium suum fictum cum cura colit.</p>
+        <p>Illic iam obiectum non est vincere. Est prosperare videre.</p>
+        <p>Est propriam creationem quasi rem vivam comitari — imperium quod per aetates transit, quod superat, quod crescit, quod id efficit quod lusor magnificum imaginatur.</p>
+        <p>Et hoc in puncto Carioca criticus fit.</p>
+        <p>Quia in hoc aliquid antiquum agnoscit — speciem kolakeiae.</p>
+        <p>Non sensu vulgari laudis, sed sensu profondiori: praxim quae placet, quae seducit, quae animum satiat… sed quae a vero ludi recedit.</p>
+        <p>Sicut certi sermones non veritatem sed plausum quaerunt, hae expeditiones non dominium quaerunt — sed satisfactionem.</p>
+        <p>Et hoc, pro Carioca, deviatio ab ipsa natura Hearts of Iron IV est.</p>
+        <p>Nam finis ludi non est contemplatio imperiorum imaginatorum, nec libertas electionum infinitarum. Finis alius est: victoria sub restrictione. Impositio voluntatis in ambiente hostili, limitato, imperfecto.</p>
+        <p>Est pugna.</p>
+        <p>Cum hic finis deseritur, lusor alium genus experientiae assuescere incipit. Experientiam ubi omnia possibilia sunt, ubi omnia permissa sunt, ubi nulla rigiditas est — solum variatio.</p>
+        <p>Et hoc habitus format.</p>
+        <p>Lusores sicut Legio Rex non historicum, expansivum, apertum praeferre incipiunt. Multiplicibus arboribus, multiplicibus decisionibus, multiplicibus viis gaudent. Sed dum hoc faciunt, a duritate recedunt quam ludus exigit cum ad suum limitem adducitur.</p>
+        <p>Nam in ludo competitivo spatium phantasiae non est.</p>
+        <p>Sunt limites.</p>
+        <p>Finlandia potentia aerea non est. Industriam, scalas, conditiones non possidet. Eam in aliquid quod non est transformare iucundum esse potest — sed nihil docet de eo quod revera efficere potest.</p>
+        <p>Et ibi problema est.</p>
+        <p>Hae praxes non solum deviant — male exercent.</p>
+        <p>Lusorem ad distractionem assuefaciunt, ad libertatem sine pretio, ad electionem sine consequentia vera. Et cum ille lusor in ambiente competitivo ingreditur, ubi unusquisque error punitur et unusquodque consilium pondus habet, imparatum se invenit.</p>
+        <p>Non propter defectum intelligentiae. Sed propter habitum malum.</p>
+        <p>Carioca ergo has praxes non omnino damnat. Valorem earum ut exercitium imaginationis, ut explorationem, etiam ut requiem intellegit.</p>
+        <p>Sed unusquisque res suo loco ponit.</p>
+        <p>Expeditiones magnae exercitium non sunt. Ludi non historici probatio non sunt. Et satisfactio victoria non est.</p>
+        <p>In fine, principium reafirmat:</p>
+        <p>Qui ludum dominari quaerit, ei se submittere debet — regulis eius, limitationibus eius, duritiae eius.</p>
+        <p>Nam non in libertate lusor fortis formatur. In restrictione.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
+    },
+
     introducao: {
       h1: 'INTRODUCTIO — PRINCIPIUM SAPIENTIAE CARIOCAE',
       navInicio:      'INITIUM',
@@ -1274,6 +1318,7 @@
         'capitulo35': 'Caput XXXV — Hostes Vocis',
         'capitulo36': 'Caput XXXVI — Sabotores Proprii Agminis',
         'capitulo37': 'Caput XXXVII — De Iis Qui Ludum Victum Amittunt',
+        'capitulo38': 'Caput XXXVIII — De Iis Qui Magnas Expeditiones et Ludos Non Historicos Faciunt',
       },
     },
 
