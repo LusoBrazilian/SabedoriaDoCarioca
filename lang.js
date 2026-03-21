@@ -1241,6 +1241,62 @@
       navIntroductio: 'INTRODUCTIO',
     },
 
+    capitulo39: {
+      h1: 'Caput XXXIX — Victoria Schrödingeriana',
+      bookText: `
+        <p>Carioca quondam phaenomenon curiosum in partitis Hearts of Iron IV observavit. Phaenomenon rarum, fere mysticum, difficile explicatu et adhuc difficilius acceptu.</p>
+        <p>Hoc phaenomenon Victoria Schrödingeriana appellavit.</p>
+        <p>Nam sicut in celebri experimento mentali Erwini Schrödinger, ubi aliquid simul vivum et mortuum esse potest, existit in ludo lusor qui simul vincit et perdit.</p>
+        <p>Est ille qui capitulatur. Exercitum amittit. Industriam amittit. Classem amittit. Patriam amittit. Ex mappa evanescit.</p>
+        <p>Sed in fine, cum tabella victoriae apparet, agmen eius vicit.</p>
+        <p>Et tunc quaestio oritur:</p>
+        <p>Vicitne an perdidit?</p>
+        <p>Carioca sine haesitatione respondet: Perdidit. Et bis perdidit.</p>
+        <p>Patriam perdidit. Et utilitatem pro agmine perdidit.</p>
+        <p>Vincere per convenientiam non est victoria. Est solum in latere recto esse dum omnia male fiunt.</p>
+        <p>Hoc phaenomenon apparet quando lusor ludum pro patria cum ludo pro agmine confundit.</p>
+        <p>Qui pro agmine ludit intelligit patriam suam solum partem esse. Qui pro patria propria ludit obliviscitur se, si cadit, totum reliquum trahere posse.</p>
+        <p>Capitulari ludens de minore tragoedia parva est. Capitulari ludens de maiore disastrum strategicum est.</p>
+        <p>Quia maior non est solum lusor. Maior est structura. Est oeconomia. Est logistica. Est stock. Est tempus.</p>
+        <p>Quando maior cadit, non cadit solum patria. Cadit consilium integrum factionis.</p>
+        <p>Carioca tunc meminit casus qui fere legendarius factus est: diei quo Vreis de Italia lusit.</p>
+        <p>Et casus perfectus erat ad Victoriam Schrödingerianam studiendam.</p>
+        <p>Nam omnia quae pro Italia bene cedere poterant, cesserunt.</p>
+        <p>Axis in Africa Septentrionali vicit. Axis Gibraltarium cepit — res in illo mod rarissima. Classis Regni Uniti destructa est. Mare Mediterraneum fere clausum erat. Regnum Unitum in periculo reali erat.</p>
+        <p>Ludus perfectus erat pro quavis Italia. Somnium lucidum strategicum.</p>
+        <p>Sed bellum non cum occasionibus vincitur. Cum attentione vincitur.</p>
+        <p>Vreis tunc aliquid extraordinarium efficere potuit: positionem victoriae in disastrum transformavit.</p>
+        <p>Gibraltarium munire oblitus est. Alliati recuperaverunt.</p>
+        <p>Territorium principale non protexit. Invasum est.</p>
+        <p>Capitulatus est.</p>
+        <p>Et capitulatus, aliquid etiam peius fecit: stock Germaniae exhausit et exercitum germanicum cogere debuit frontem mutare ad Italiam servandam.</p>
+        <p>Id est, non solum cecidit — eis qui adhuc stabant obstitit.</p>
+        <p>Hoc, pro Carioca, nomen habet:</p>
+        <p>Non est clades. Non est infortunium. Non est error parvus.</p>
+        <p>Est sabotatio per incompetentiam.</p>
+        <p>Non intentionalis. Sed strategica.</p>
+        <p>Nihilominus, Axis partitam vicit.</p>
+        <p>Et tunc paradoxon nascitur.</p>
+        <p>Vreis vicit. Vreis perdidit. Vreis inutilis fuit. Vreis in agmine victore erat.</p>
+        <p>Ergo:</p>
+        <p>Vreis simul vicit et perdidit.</p>
+        <p>Victoria Schrödingeriana.</p>
+        <p>Sed Carioca paradoxon regula simplici solvit:</p>
+        <p>Victoria non est in tabella finali esse. Victoria est adhuc existere quando ea apparet.</p>
+        <p>Qui capitulatus est et agmen vicit non vicit. Portatus est.</p>
+        <p>Et portari in ludo strategiae non est honor. Est debitum.</p>
+        <p>Quia aliquis expendere debuit: instrumenta, attentionem, copias, consilium et tempus ad errorem corrigendum qui numquam esse debuerat.</p>
+        <p>Illo die, dum Italia cadebat, Axis non vicit propter Italiam. Vicit quamquam Italia erat.</p>
+        <p>Et hoc omnia mutat.</p>
+        <p>Carioca tunc lectionem finalem capitis relinquit:</p>
+        <p>In ludo factionum, non sufficit cum agmine vincere. Necesse est non esse causam propter quam agmen fere perdidit.</p>
+        <p>Nam pessima clades non est ab hoste vinci.</p>
+        <p>Est vincere dum maximum problema proprii agminis eras.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
+    },
+
     introducao: {
       h1: 'INTRODUCTIO — PRINCIPIUM SAPIENTIAE CARIOCAE',
       navInicio:      'INITIUM',
@@ -1319,6 +1375,7 @@
         'capitulo36': 'Caput XXXVI — Sabotores Proprii Agminis',
         'capitulo37': 'Caput XXXVII — De Iis Qui Ludum Victum Amittunt',
         'capitulo38': 'Caput XXXVIII — De Iis Qui Magnas Expeditiones et Ludos Non Historicos Faciunt',
+        'capitulo39': 'Caput XXXIX — Victoria Schrödingeriana',
       },
     },
 
