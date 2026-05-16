@@ -1298,7 +1298,7 @@
     },
 
     capitulo40: {
-      h1: 'Caput XXXL — De Iis Qui Save Inspiciunt',
+      h1: 'Caput XL — De Iis Qui Save Inspiciunt',
       bookText: `
         <p>Inter omnia peccata silentia multiplayer, pauca stigma tam immediatum ferunt quam save inspicere.</p>
         <p>Nam diversum a rage quit, ab allied battleplan vel a call absurda hora tertia noctis facta, save inspicere spectaculum non producit.</p>
@@ -1440,7 +1440,7 @@
         'capitulo37': 'Caput XXXVII — De Iis Qui Ludum Victum Amittunt',
         'capitulo38': 'Caput XXXVIII — De Iis Qui Magnas Expeditiones et Ludos Non Historicos Faciunt',
         'capitulo39': 'Caput XXXIX — Victoria Schrödingeriana',
-        'capitulo40': 'Caput XXXL — De Iis Qui Save Inspiciunt',
+        'capitulo40': 'Caput XL — De Iis Qui Save Inspiciunt',
       },
     },
 
