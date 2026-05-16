@@ -1297,6 +1297,70 @@
       navIntroductio: 'INTRODUCTIO',
     },
 
+    capitulo40: {
+      h1: 'Caput XXXX — De Iis Qui Save Inspiciunt',
+      bookText: `
+        <p>Inter omnia peccata silentia multiplayer, pauca stigma tam immediatum ferunt quam save inspicere.</p>
+        <p>Nam diversum a rage quit, ab allied battleplan vel a call absurda hora tertia noctis facta, save inspicere spectaculum non producit.</p>
+        <p>Est crimen frigidum.</p>
+        <p>Silens.</p>
+        <p>Methoicum.</p>
+        <p>Fere intellectuale.</p>
+        <p>Et propterea inter lusores tabu factum est.</p>
+        <p>Omnes damnant. Omnes despiciunt. Omnes iurant se numquam facturos esse.</p>
+        <p>Usque ad momentum quo vincere necesse est.</p>
+        <p>In campania Italiae, anno remoto MCMXXXVIII, Carioca coram hac quaestione morali se invenit.</p>
+        <p>Rehost acciderat.</p>
+        <p>Lobbium pausatum inter duos mundos quiescebat: partitam iam inceptam et bellum nondum decisum.</p>
+        <p>Et ibi erat save.</p>
+        <p>Apertum.</p>
+        <p>Disponibile.</p>
+        <p>Ante oculos omnium expositum sicut fructus prohibitus super mensam relictus.</p>
+        <p>Multi honestatem simularent.</p>
+        <p>Multi oculos performative clauderent, virtuosi videri cupientes coram lusoribus aeque mediocribus.</p>
+        <p>Carioca non.</p>
+        <p>Ille save aperuit.</p>
+        <p>Et Regnum Unitum observavit.</p>
+        <p>Fabricas vidit. Productionem vidit. Positiones vidit. Prioritates industriales sub nebula belli absconditas vidit.</p>
+        <p>Ubi alii limitationem intel cernebant, Carioca occasionem strategicam cernebat.</p>
+        <p>Nam informatio potestas est.</p>
+        <p>Et soli imbecilles ignorantiam romanticam faciunt.</p>
+        <p>Tunc rogaverunt:</p>
+        <p>"Sed nonne iniustum est?"</p>
+        <p>Et Carioca cum tranquillitate fere paedagogica respondit:</p>
+        <p>Iniustum pro quibus?</p>
+        <p>Nam bellum numquam purissimum remuneravit. Efficientissimum remuneravit.</p>
+        <p>Lusor communis imaginatur moralitatem competitivam esse entitatem sacram, supra victoriam, supra logicam et supra eventus.</p>
+        <p>Sed Carioca aliquid profundius intelligit:</p>
+        <p>Omnis regula valorem solum habet dum qualitatem partitae protegit.</p>
+        <p>Et qualitas non ex artificiali limitatione eius qui ludere scit nascitur.</p>
+        <p>Nascitur ex superiori capacitate informationem in decisionem rectam transformandi.</p>
+        <p>Quando dollynhus save inspicit, nihil accidit.</p>
+        <p>Malus manet.</p>
+        <p>Male aedificare pergit. Frontline amittere pergit. Supply oblivisci pergit. Incapax manere pergit id quod videt interpretandi.</p>
+        <p>Quia informatio sine capacitate solum excessus datorum est.</p>
+        <p>Sed quando Carioca save inspicit, informatio esse desinit merum detailum.</p>
+        <p>In praecisionem transformatur.</p>
+        <p>In anticipationem.</p>
+        <p>In absolutum dominium rhythmi belli.</p>
+        <p>Et hic residet differentia quam tot recusant acceptare:</p>
+        <p>Problema numquam fuit save inspicere.</p>
+        <p>Problema semper fuit quis inspicit.</p>
+        <p>Nam in manibus scoriae, save inspicere in fulcrum incompetentiae structuralis fit.</p>
+        <p>In manibus Cariocae, solum extensio naturalis lectionis strategicae fit.</p>
+        <p>Dollynhus save inspicit suam inferioritatem compensare quaerens.</p>
+        <p>Carioca save inspicit solum ad inevitabile accelerandum.</p>
+        <p>Et ita veritas statuitur quam multi oderunt praecise quia intelligunt:</p>
+        <p>Quod in mediocribus damnabile est, in competentibus saepe excellentia fit.</p>
+        <p>Nam valor instrumenti numquam in ipso est, sed in manu quae illud utitur.</p>
+        <p>Lobbium fraudem vocat.</p>
+        <p>Carioca praeparationem vocat.</p>
+        <p>Et dum moralistae de ethica in chatto disputant, Carioca bellum iam vicit antequam primus carrus fines transivit.</p>`,
+      navInicio:      'INITIUM',
+      navSumario:     'INDEX',
+      navIntroductio: 'INTRODUCTIO',
+    },
+
     introducao: {
       h1: 'INTRODUCTIO — PRINCIPIUM SAPIENTIAE CARIOCAE',
       navInicio:      'INITIUM',
@@ -1376,6 +1440,7 @@
         'capitulo37': 'Caput XXXVII — De Iis Qui Ludum Victum Amittunt',
         'capitulo38': 'Caput XXXVIII — De Iis Qui Magnas Expeditiones et Ludos Non Historicos Faciunt',
         'capitulo39': 'Caput XXXIX — Victoria Schrödingeriana',
+        'capitulo40': 'Caput XXXX — De Iis Qui Save Inspiciunt',
       },
     },
 
